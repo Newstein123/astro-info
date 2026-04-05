@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="my">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Astro Info - အာကာသသတင်းများ</title>
+  <link rel="stylesheet" href="/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Padauk:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <h1>🌌 Astro Info</h1>
+      <p class="subtitle">နေ့စဉ် အာကာသ သိပ္ပံ သတင်းများနှင့် ဆောင်းပါးများ</p>
+    </div>
+    <div id="stats" class="stats"></div>
+  </header>
+
+  <nav>
+    <button class="tab active" data-tab="news">📡 သတင်းများ</button>
+    <button class="tab" data-tab="content">📖 ဆောင်းပါးများ</button>
+  </nav>
+
+  <main>
+    <section id="news" class="tab-content active">
+      <div id="news-grid" class="card-grid">
+        <p class="loading">သတင်းများ ရယူနေသည်...</p>
+      </div>
+    </section>
+
+    <section id="content" class="tab-content">
+      <div id="content-grid" class="card-grid">
+        <p class="loading">ဆောင်းပါးများ ရယူနေသည်...</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>🤖 AI ဖြင့် အလိုအလျောက် ဖန်တီးထားသော အကြောင်းအရာများ</p>
+  </footer>
+
+  <script src="/script.js"></script>
+</body>
+</html>

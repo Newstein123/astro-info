@@ -1,0 +1,20 @@
+{
+  "name": "astro-info",
+  "version": "1.0.0",
+  "description": "Autonomous astronomy content platform in Myanmar language",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "news": "node src/agents/newsAgent.js",
+    "content": "node src/agents/contentAgent.js",
+    "review": "node src/agents/reviewAgent.js"
+  },
+  "dependencies": {
+    "@google/genai": "^1.48.0",
+    "dotenv": "^16.4.7",
+    "express": "^5.2.1",
+    "node-cron": "^4.2.1",
+    "rss-parser": "^3.13.0"
+  }
+}
