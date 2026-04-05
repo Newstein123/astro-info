@@ -136,23 +136,18 @@ function renderContent() {
   });
 }
 
-async function loadStats() {
-  try {
-    const res = await fetch('/api/stats');
-    const stats = await res.json();
-    document.getElementById('stats').innerHTML = `
-      <span class="stat-item">📡 သတင်း ${stats.newsCount} ခု</span>
-      <span class="stat-item">📖 ဆောင်းပါး ${stats.contentCount} ခု</span>
-    `;
-  } catch (err) {
-    console.error('Stats load failed:', err);
-  }
+function renderStats() {
+  document.getElementById('stats').innerHTML = `
+    <span class="stat-item">📡 သတင်း ${newsData.length} ခု</span>
+    <span class="stat-item">📖 ဆောင်းပါး ${contentData.length} ခု</span>
+  `;
 }
 
 async function loadNews() {
   try {
-    const res = await fetch('/api/news');
+    const res = await fetch('/api/news.json');
     newsData = await res.json();
+    newsData.reverse();
     newsPage = 1;
     renderNews();
   } catch (err) {
@@ -162,8 +157,9 @@ async function loadNews() {
 
 async function loadContent() {
   try {
-    const res = await fetch('/api/content');
+    const res = await fetch('/api/content.json');
     contentData = await res.json();
+    contentData.reverse();
     contentPage = 1;
     renderContent();
   } catch (err) {
@@ -172,13 +168,8 @@ async function loadContent() {
 }
 
 // Initial load
-loadStats();
-loadNews();
-loadContent();
-
-// Auto-refresh every 5 minutes
-setInterval(() => {
-  loadStats();
-  loadNews();
-  loadContent();
-}, 5 * 60 * 1000);
+async function init() {
+  await Promise.all([loadNews(), loadContent()]);
+  renderStats();
+}
+init();
