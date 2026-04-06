@@ -89,11 +89,21 @@ Return JSON with keys: title (Burmese), introduction (Burmese, 1 paragraph), exp
 
 export async function reviewEntry(entry, type) {
   log.info(`Reviewing ${type} entry: ${entry.id}`);
-  const prompt = `Review this ${type} entry for quality, accuracy, and Burmese language clarity.
 
-Entry: ${JSON.stringify(entry)}
+  // Send only key fields to avoid overwhelming the model
+  const summary = {
+    id: entry.id,
+    title: entry.title,
+    summary: entry.summary || entry.introduction,
+    tags: entry.tags,
+  };
 
-Return JSON with keys: approved (boolean), improvements (object with improved Burmese fields or null values), reviewNotes (Burmese string)`;
+  const prompt = `Review this ${type} entry's Burmese title and summary for accuracy and natural language.
 
-  return generateJSON(prompt, 1024);
+Title: ${summary.title}
+Summary: ${summary.summary}
+
+Return JSON with keys: approved (boolean), improvements (object: title and summary as improved Burmese strings, or null if fine), reviewNotes (short Burmese string)`;
+
+  return generateJSON(prompt, 512);
 }
