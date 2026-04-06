@@ -113,5 +113,122 @@
     "publishedAt": "2026-04-02T04:01:00.000Z",
     "createdAt": "2026-04-05T14:14:56.196Z",
     "reviewed": false
+  },
+  {
+    "id": "news-2026-04-06-2306a66a",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "Thinking of You, Earth",
+    "title": "ကမ္ဘာမြေကို သတိရခြင်း",
+    "summary": "၂၀၂၆ ခုနှစ်၊ ဧပြီလ ၄ ရက်နေ့တွင် NASA အာကာသယာဉ်မှူးနှင့် Artemis II မစ်ရှင်မှူး Reid Wiseman သည် Orion အာကာသယာဉ်၏ ပြတင်းပေါက်မှတစ်ဆင့် ကမ္ဘာမြေကို ပြန်လည်ကြည့်ရှုခဲ့သည်။ အဆိုပါအချိန်သည် လကမ္ဘာဆီသို့ ခရီးနှင်နေစဉ်ဖြစ်ပြီး၊ Wiseman နှင့်အတူ NASA အာကာသယာဉ်မှူးများဖြစ်ကြသော Christina Koch၊ Victor Glover နှင့် ကနေဒါအာကာသအေဂျင်စီ (CSA) မှ အာကာသယာဉ်မှူးတို့ ပါဝင်ခဲ့ကြသည်။",
+    "tags": [
+      "NASA",
+      "Artemis II",
+      "Orion",
+      "Reid Wiseman",
+      "Christina Koch",
+      "Victor Glover",
+      "CSA",
+      "Moon mission",
+      "Space travel",
+      "Earth view"
+    ],
+    "category": "space-exploration",
+    "link": "https://www.nasa.gov/image-article/thinking-of-you-earth/",
+    "image": "/images/news-2026-04-06-2306a66a.png",
+    "publishedAt": "2026-04-05T14:04:33.000Z",
+    "createdAt": "2026-04-06T09:00:58.595Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-06-1ac6d872",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "NASA Answers Your Most Pressing Artemis II Questions",
+    "title": "NASA က သင့်ရဲ့ အရေးအကြီးဆုံး Artemis II မေးခွန်းတွေကို ဖြေကြားပေးပါပြီ",
+    "summary": "NASA ရဲ့ Artemis အစီအစဉ်အောက်က ပထမဆုံး လူလိုက်ပါတဲ့ စမ်းသပ်ပျံသန်းမှုဖြစ်တဲ့ Artemis II မစ်ရှင်ကို စတင်လိုက်ပါပြီ။ အာကာသယာဉ်မှူး လေးဦးဟာ လကမ္ဘာပတ်လည်ကို NASA ရဲ့ Orion အာကာသယာဉ်နဲ့ ပျံသန်းနေကြပြီး ဒီမစ်ရှင်နဲ့ပတ်သက်တဲ့ အရေးကြီးမေးခွန်းတွေကို NASA က ဖြေကြားပေးထားပါတယ်။",
+    "tags": [
+      "NASA",
+      "Artemis II",
+      "Orion",
+      "Moon",
+      "Crewed Flight",
+      "Space Mission",
+      "Astronauts"
+    ],
+    "category": "human-spaceflight",
+    "link": "https://www.nasa.gov/missions/nasa-answers-your-most-pressing-artemis-ii-questions/",
+    "image": "/images/news-2026-04-06-1ac6d872.png",
+    "publishedAt": "2026-04-04T19:44:31.000Z",
+    "createdAt": "2026-04-06T09:01:28.187Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-06-d753448f",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "Illuminated in Orion",
+    "title": "အိုရီယွန်အတွင်း အလင်းရောင်ရရှိခြင်း",
+    "summary": "၂၀၂၆ ခုနှစ်၊ ဧပြီလ ၃ ရက်နေ့က ရိုက်ကူးထားသည့် ဓာတ်ပုံတစ်ပုံတွင် နာဆာအာကာသယာဉ်မှူး ခရစ္စတီနာ ကော့ချ်သည် အလင်းမှိန်နေသော အိုရီယွန် (Orion) အာကာသယာဉ်အတွင်း တက်ဘလက်တစ်ခုကို ဖတ်ရှုနေသည်ကို တွေ့ရသည်။ ဓာတ်ပုံ၏ ညာဘက်အလယ်တွင် ကနေဒါအာကာသအေဂျင်စီမှ အာကာသယာဉ်မှူး ဂျယ်ရမီ ဟန်ဆန်သည် အိုရီယွန်၏ ပြတင်းပေါက်တစ်ခုမှ အပြင်ဘက်သို့ ကြည့်ရှုနေပြီး အလင်းပြန်ခြင်းကို ရှောင်ရှားရန် မီးများကို ပိတ်ထားသည်။",
+    "tags": [
+      "NASA",
+      "astronaut",
+      "Orion",
+      "Christina Koch",
+      "Jeremy Hansen",
+      "CSA",
+      "space capsule",
+      "human spaceflight"
+    ],
+    "category": "human-spaceflight",
+    "link": "https://www.nasa.gov/image-article/illuminated-in-orion/",
+    "image": "/images/news-2026-04-06-d753448f.png",
+    "publishedAt": "2026-04-04T15:07:46.000Z",
+    "createdAt": "2026-04-06T09:01:34.973Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-06-4d520358",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "Meet NASA’s New Artemis II Science Officers",
+    "title": "နာဆာ၏ Artemis II သိပ္ပံအရာရှိအသစ်များနှင့် တွေ့ဆုံခြင်း",
+    "summary": "နာဆာ၏ ပထမဆုံး Artemis II သိပ္ပံအရာရှိများဖြစ်ကြသော Kelsey Young, Trevor Graff နှင့် Angela Garcia တို့သည် မစ်ရှင်ထိန်းချုပ်ရေးစခန်း (Mission Control) ထဲသို့ အဆင့်မြင့်လသိပ္ပံပညာကို တိုက်ရိုက်ပေါင်းစပ်ထည့်သွင်းခြင်းဖြင့် မစ်ရှင်လုပ်ငန်းဆောင်တာများ၏ ခေတ်သစ်တစ်ရပ်ကို ရှေ့ဆောင်နေကြပါသည်။ ၎င်းတို့၏ လုပ်ငန်းများသည် အနာဂတ် Artemis အဖွဲ့သားများ လကမ္ဘာကို မည်သို့လေ့လာ၊ ခွဲခြမ်းစိတ်ဖြာပြီး နားလည်မှုကို နက်ရှိုင်းစေမည်ကို ပုံဖော်ပေးမည်ဖြစ်သည်။",
+    "tags": [
+      "NASA",
+      "Artemis II",
+      "Science Officers",
+      "Lunar Science",
+      "Mission Control",
+      "Space Exploration"
+    ],
+    "category": "space-news",
+    "link": "https://science.nasa.gov/missions/artemis/meet-nasas-new-artemis-ii-science-officers/",
+    "image": "/images/news-2026-04-06-4d520358.png",
+    "publishedAt": "2026-04-03T17:35:44.000Z",
+    "createdAt": "2026-04-06T09:02:25.866Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-06-ea6e7dd9",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "Virgil I. “Gus” Grissom",
+    "title": "ဗာဂျယ်လ် အိုင်. \"ဂပ်စ်\" ဂရစ်ဆမ်",
+    "summary": "ယနေ့သည် ၁၉၂၆ ခုနှစ် ဧပြီလ ၃ ရက်နေ့တွင် အင်ဒီယားနားပြည်နယ်၊ မစ်ချယ်လ်မြို့၌ မွေးဖွားခဲ့သော ဗာဂျယ်လ် အိုင်. \"ဂပ်စ်\" ဂရစ်ဆမ်၏ ၁၀၀ နှစ်ပြည့် မွေးနေ့ဖြစ်ပါသည်။ သူသည် နာဆာ၏ ပထမဆုံး အာကာသယာဉ်မှူး ခုနစ်ဦးအနက်မှ တစ်ဦးဖြစ်ပြီး ၁၉၆၁ ခုနှစ် ဇူလိုင်လ ၂၁ ရက်နေ့တွင် Liberty Bell 7 ယာဉ်ဖြင့် အာကာသသို့ ပျံသန်းခဲ့ရာ အမေရိကန်၏ ဒုတိယမြောက် အာကာသယာဉ်မှူး ဖြစ်လာခဲ့ပါသည်။ ၎င်းပျံသန်းမှုသည် အလန် ရှက်ပါ့ဒ်၏ သမိုင်းဝင် ပျံသန်းမှုအပြီး ရက်သတ္တပတ် အနည်းငယ်အကြာတွင် ဖြစ်ခဲ့သည်။",
+    "tags": [
+      "Gus Grissom",
+      "NASA",
+      "Astronauts",
+      "Space History",
+      "Mercury Program",
+      "Anniversary"
+    ],
+    "category": "astronaut-profile",
+    "link": "https://www.nasa.gov/image-article/virgil-i-gus-grissom/",
+    "image": null,
+    "publishedAt": "2026-04-03T16:27:09.000Z",
+    "createdAt": "2026-04-06T09:02:33.755Z",
+    "reviewed": false
   }
 ]
