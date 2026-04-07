@@ -348,5 +348,116 @@
     "publishedAt": "2026-04-06T21:54:20.000Z",
     "createdAt": "2026-04-07T02:47:03.084Z",
     "reviewed": false
+  },
+  {
+    "id": "news-2026-04-07-990a9008",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "Drought Parches Florida",
+    "title": "ဖလော်ရီဒါတွင် မိုးခေါင်ရေရှားမှုများ ဖြစ်ပေါ်",
+    "summary": "ဖလော်ရီဒါပြည်နယ်သည် ၂၀၂၅ ခုနှစ် တစ်လျှောက်လုံး ပုံမှန်မဟုတ်ဘဲ ခြောက်သွေ့ခဲ့သည်။ သို့သော် ၂၀၂၆ ခုနှစ် ဇန်နဝါရီလမှစ၍ မိုးခေါင်ရေရှားမှု၏ ပြင်းထန်မှုမှာ ပိုမိုမြင့်တက်လာခဲ့သည်။",
+    "tags": [
+      "Drought",
+      "Florida",
+      "Weather",
+      "Climate",
+      "2025",
+      "2026"
+    ],
+    "category": "earth-science",
+    "link": "https://science.nasa.gov/earth/earth-observatory/drought-parches-florida/",
+    "image": "/images/news-2026-04-07-990a9008.png",
+    "publishedAt": "2026-04-07T04:01:00.000Z",
+    "createdAt": "2026-04-07T08:52:30.149Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-07-b17cbdde",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "Night Sky Network Celebrates Artemis II",
+    "title": "ညကောင်းကင်ကွန်ရက်က Artemis II ကို ဂုဏ်ပြု",
+    "summary": "ယနေ့တွင် Artemis II အဖွဲ့သားများသည် မှတ်တမ်းတင်ထားသော သမိုင်းတစ်လျှောက် လူသားများထက် ပိုမိုဝေးကွာသော ခရီးကို ရောက်ရှိခဲ့သည်။ ၎င်းတို့သည် လမျက်နှာပြင်အထက် မိုင် ၄,၀၀၀ ခန့်အကွာမှ လ၏အဝေးဘက်ခြမ်းကို ပတ်လမ်းကြောင်းဖြင့် လှည့်ပတ်နေခြင်းဖြစ်သည်။ ဤသမိုင်းဝင်ထုတ်လွှင့်မှုကို ၂၀၂၆ ခုနှစ်၊ ဧပြီလ ၆ ရက်နေ့တွင် NASA ၏ YouTube ချန်နယ် သို့မဟုတ် NASA+ တွင် ကြည့်ရှုနိုင်ပါသည်။",
+    "tags": [
+      "Artemis II",
+      "Moon",
+      "NASA",
+      "Spaceflight",
+      "Human Spaceflight",
+      "Lunar Exploration"
+    ],
+    "category": "human-spaceflight",
+    "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/night-sky-network-celebrates-artemis-ii/",
+    "image": "/images/news-2026-04-07-b17cbdde.png",
+    "publishedAt": "2026-04-06T15:29:14.000Z",
+    "createdAt": "2026-04-07T08:52:41.147Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-07-a3121d6c",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " 'This is really big stuff.' Trump hails NASA Artemis 2 astronauts after historic moon flyby feat ",
+    "title": "“ဒါဟာ တကယ်ကို ကြီးကျယ်ခမ်းနားတဲ့ ကိစ္စပဲ။” ထရန့်ပ်က သမိုင်းဝင်လပတ်ပျံသန်းမှုအပြီး နာဆာ၏ အာတီးမစ် ၂ အာကာသယာဉ်မှူးများကို ချီးကျူးဂုဏ်ပြု",
+    "summary": "ဧပြီလ ၆ ရက် တနင်္လာနေ့ညတွင် သမ္မတ ဒေါ်နယ်ထရန့်ပ်က နာဆာ၏ အာတီးမစ် ၂ အာကာသယာဉ်မှူးများ၏ သမိုင်းဝင် လပတ်ပျံသန်းမှု အောင်မြင်ပြီးနောက် ၎င်းတို့၏ ရဲစွမ်းသတ္တိနှင့် ကြံ့ခိုင်မှုကို ချီးကျူးဂုဏ်ပြုခဲ့သည်။ ၎င်းသည် အမေရိကန်၏ အာကာသစူးစမ်းလေ့လာရေးတွင် အရေးပါသော မှတ်တိုင်တစ်ခုဖြစ်ကြောင်း အလေးထားပြောကြားခဲ့သည်။",
+    "tags": [
+      "Trump",
+      "NASA",
+      "Artemis 2",
+      "Astronauts",
+      "Moon flyby",
+      "Space exploration",
+      "Lunar mission"
+    ],
+    "category": "space-exploration",
+    "link": "https://www.space.com/space-exploration/artemis/this-is-really-big-stuff-trump-hails-nasa-artemis-2-astronauts-after-historic-moon-flyby-feat",
+    "image": null,
+    "publishedAt": "2026-04-07T06:39:52.000Z",
+    "createdAt": "2026-04-07T08:52:55.061Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-07-b05b44bd",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " Artemis 2 astronauts fly around the moon in record-breaking lunar loop by NASA ",
+    "title": "နာဆာမှ အာတဲမစ်-၂ အာကာသယာဉ်မှူးများ စံချိန်တင် လပတ်လမ်းကြောင်းဖြင့် လကို ပတ်၍ ပျံသန်း",
+    "summary": "နာဆာ၏ အာတဲမစ်-၂ အာကာသယာဉ်မှူးများသည် ယနေ့ (ဧပြီ ၆ ရက်) တွင် ၎င်းတို့၏ ခမ်းနားထည်ဝါသော လပတ်ပျံသန်းမှုအတွင်း လူသားမျက်စိဖြင့် မမြင်ဖူးသေးသည့် လ၏ အစိတ်အပိုင်းများကို ကြည့်ရှုခဲ့ကြသည်။ ၎င်းတို့သည် ထိုသို့ပြုလုပ်နေစဉ် အာကာသပျံသန်းမှု စံချိန်သစ်တစ်ခုကိုလည်း တင်နိုင်ခဲ့သည်။",
+    "tags": [
+      "Artemis 2",
+      "NASA",
+      "Moon",
+      "Lunar Flyby",
+      "Astronauts",
+      "Spaceflight Record"
+    ],
+    "category": "human-spaceflight",
+    "link": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-head-toward-earth-record-breaking-moon-flyby",
+    "image": "/images/news-2026-04-07-b05b44bd.png",
+    "publishedAt": "2026-04-07T01:15:56.000Z",
+    "createdAt": "2026-04-07T08:53:10.688Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-07-01d328f8",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " Artemis 2 breaks humanity's all-time distance record during historic loop around the moon (video) ",
+    "title": "အာတဲမစ် ၂ အာကာသယာဉ်သည် လကမ္ဘာပတ်လမ်းကြောင်းခရီးစဉ်အတွင်း လူသားများ၏ အဝေးဆုံးခရီးသွားဖူးသည့် စံချိန်ကို ချိုးဖျက်ခဲ့ (ဗီဒီယို)",
+    "summary": "နာဆာ၏ အာတဲမစ် ၂ အာကာသယာဉ်မှူးများသည် ယခုအခါ သမိုင်းတစ်လျှောက် မည်သူမျှ မရောက်ဖူးသေးသည့် ကမ္ဘာမြေနှင့် အဝေးဆုံးနေရာသို့ ခရီးနှင်ခဲ့ကြပြီဖြစ်သည်။ ၎င်းတို့သည် ၁၉၇၀ ပြည့်နှစ်၊ ဧပြီလတွင် Apollo 13 အဖွဲ့သားများ ချမှတ်ခဲ့သော စံချိန်ကို ချိုးဖျက်နိုင်ခဲ့ခြင်းဖြစ်သည်။",
+    "tags": [
+      "Artemis 2",
+      "NASA",
+      "Moon",
+      "Space exploration",
+      "Apollo 13",
+      "Distance record"
+    ],
+    "category": "space-exploration",
+    "link": "https://www.space.com/space-exploration/artemis/artemis-2-breaks-humanitys-all-time-distance-record-during-historic-loop-around-the-moon",
+    "image": "/images/news-2026-04-07-01d328f8.png",
+    "publishedAt": "2026-04-06T18:00:43.000Z",
+    "createdAt": "2026-04-07T08:54:07.132Z",
+    "reviewed": false
   }
 ]
