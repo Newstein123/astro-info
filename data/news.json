@@ -230,5 +230,123 @@
     "publishedAt": "2026-04-03T16:27:09.000Z",
     "createdAt": "2026-04-06T09:02:33.755Z",
     "reviewed": false
+  },
+  {
+    "id": "news-2026-04-07-e24c23d9",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "NASA’s Artemis II Crew Eclipses Record for Farthest Human Spaceflight",
+    "title": "နာဆာ၏ အာတီးမစ် ၂ အဖွဲ့သည် လူသားအာကာသပျံသန်းမှုတွင် အဝေးဆုံးစံချိန်ကို ကျော်လွန်ခဲ့",
+    "summary": "နာဆာ၏ အာတီးမစ် ၂ မစ်ရှင်အဖွဲ့သည် လူသားများ အာကာသသို့ ပျံသန်းခဲ့သည့် သမိုင်းတစ်လျှောက် အဝေးဆုံးစံချိန်သစ်ကို တင်ရှိခဲ့ပါသည်။ ဤမှတ်တမ်းတင် စွမ်းဆောင်ရည်တွင် အိုရီယွန်ယာဉ်သည် လမျက်နှာပြင်မှ မိုင် ၄,၀၆၇ အကွာအဝေးအထိ အနီးဆုံးချဉ်းကပ်ခဲ့ပြီး အဝေးဆုံးခရီးစဉ်ကိုလည်း မှတ်တမ်းတင်ခဲ့သည်။",
+    "tags": [
+      "Artemis II",
+      "NASA",
+      "Human Spaceflight",
+      "Space Exploration",
+      "Moon",
+      "Orion",
+      "Record",
+      "Lunar Mission"
+    ],
+    "category": "human-spaceflight",
+    "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-eclipses-record-for-farthest-human-spaceflight/",
+    "image": "/images/news-2026-04-07-e24c23d9.png",
+    "publishedAt": "2026-04-06T19:46:20.000Z",
+    "createdAt": "2026-04-07T02:44:37.297Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-07-794d5576",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "NASA’s Northrop Grumman CRS-24 Mission Overview ",
+    "title": "နာဆာ၏ Northrop Grumman CRS-24 မစ်ရှင်ခြုံငုံသုံးသပ်ချက်",
+    "summary": "နာဆာ၏ Northrop Grumman ကုန်ပစ္စည်းပို့ဆောင်ရေးဝန်ဆောင်မှု ၂၄ (CRS-24) မစ်ရှင်သည် နိုင်ငံတကာအာကာသစခန်းသို့ သိပ္ပံပစ္စည်းများနှင့် ထောက်ပံ့ရေးပစ္စည်း ပေါင် ၁၁,၀၀၀ ခန့် ပို့ဆောင်ပေးမည်ဖြစ်သည်။ ဤမစ်ရှင်သည် ကုမ္ပဏီ၏ နေရောင်ခြည်စွမ်းအင်သုံး အာကာသယာဉ်၏ ပိုမိုကြီးမားပြီး ကုန်စည်ပိုမိုသယ်ဆောင်နိုင်သည့် Cygnus XL ၏ ဒုတိယမြောက် ပျံသန်းမှုဖြစ်လိမ့်မည်။",
+    "tags": [
+      "NASA",
+      "Northrop Grumman",
+      "CRS-24",
+      "International Space Station",
+      "ISS",
+      "Cygnus XL",
+      "resupply",
+      "space mission"
+    ],
+    "category": "space-missions",
+    "link": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-24-mission-overview/",
+    "image": "/images/news-2026-04-07-794d5576.png",
+    "publishedAt": "2026-04-06T19:29:22.000Z",
+    "createdAt": "2026-04-07T02:45:06.177Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-07-889f0cf5",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "Grants",
+    "title": "ထောက်ပံ့ကြေးများ",
+    "summary": "NASA ထောက်ပံ့ကြေးများ၏ အခြေအနေကို မေးမြန်းရန်အတွက် NASA အထွေထွေအချက်အလက်တောင်းခံလွှာပုံစံကို ဖြည့်စွက်ရမည်ဖြစ်သည်။ ထိုသို့ပြုလုပ်ပြီးပါက အလိုအလျောက် အီးမေးလ်တစ်စောင်ကို လက်ခံရရှိမည်ဖြစ်ပြီး အများဆုံးမေးမြန်းလေ့ရှိသော ထောက်ပံ့ကြေးအခြေအနေအချက်အလက်များ ပါဝင်မည်ဖြစ်သည်။ NASA ထောက်ပံ့ကြေးရရှိသူများအတွက် OMB Memorandum M-25-14 နှင့် မကြာသေးမီက ထုတ်ပြန်ခဲ့သော ယာယီတားမြစ်မိန့်များဆိုင်ရာ လမ်းညွှန်ချက်များပါဝင်သည့် အရေးကြီးညွှန်ကြားချက်များကိုလည်း ဖော်ပြထားသည်။",
+    "tags": [
+      "NASA",
+      "Grants",
+      "Funding",
+      "Application",
+      "Guidance"
+    ],
+    "category": "grants-information",
+    "link": "https://www.nasa.gov/centers-and-facilities/grants-2/",
+    "image": "/images/news-2026-04-07-889f0cf5.png",
+    "publishedAt": "2026-04-06T15:22:30.000Z",
+    "createdAt": "2026-04-07T02:45:59.975Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-07-b5d9fd22",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "The Near Side of the Moon",
+    "title": "လကမ္ဘာ၏ အနီးဘက်ခြမ်း",
+    "summary": "NASA ၏ Orion အာကာသယာဉ်ပေါ်မှ အာကာသယာဉ်မှူးများသည် ၂၀၂၆ ခုနှစ် ဧပြီလ ၄ ရက်နေ့တွင် လကမ္ဘာ၏ အနီးဘက်ခြမ်း ဓာတ်ပုံကို ရိုက်ကူးခဲ့သည်။ ထိုဓာတ်ပုံတွင် လကမ္ဘာ၏ ဤဘက်ခြမ်းတွင်သာ တွေ့ရသည့် ရှေးဟောင်းလာဗာစီးဆင်းမှုများဖြစ်သော မှောင်မည်းနေသည့် အကွက်များကို ဖော်ပြထားသည်။ Artemis II အာကာသယာဉ်မှူးများဖြစ်သည့် Victor Glover၊ Reid Wiseman နှင့် Christina Koch တို့သည် ဤခရီးစဉ်တွင် ပါဝင်ခဲ့ကြသည်။",
+    "tags": [
+      "Moon",
+      "Near Side",
+      "Orion",
+      "NASA",
+      "Artemis II",
+      "Astronauts",
+      "Lava Flows",
+      "Spacecraft",
+      "Photography"
+    ],
+    "category": "space-exploration",
+    "link": "https://www.nasa.gov/image-article/the-near-side-of-the-moon/",
+    "image": "/images/news-2026-04-07-b5d9fd22.png",
+    "publishedAt": "2026-04-06T14:59:19.000Z",
+    "createdAt": "2026-04-07T02:46:08.906Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-07-b188c4f8",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " Moon music: Here's a Spotify playlist of the Artemis 2 crew's wakeup songs ",
+    "title": "လတေးဂီတ- Artemis 2 အဖွဲ့သားများ၏ နိုးထချိန်သီချင်းများ Spotify playlist",
+    "summary": "Artemis 2 မစ်ရှင် ထိန်းချုပ်ရေးအဖွဲ့သည် အဖွဲ့သားများ၏ တစ်နေ့တာကို အကောင်းမြင်စိတ်ဖြင့် စတင်နိုင်ရန် နိုးထသီချင်းများဖြင့် ဖွင့်ပေးခဲ့သည်။ ဤသည်မှာ ထိုသီချင်းများပါဝင်သော Spotify playlist ဖြစ်သည်။",
+    "tags": [
+      "Artemis 2",
+      "Spotify",
+      "Music",
+      "Wakeup songs",
+      "Crew",
+      "Space mission",
+      "NASA",
+      "Moon"
+    ],
+    "category": "space-exploration",
+    "link": "https://www.space.com/space-exploration/artemis/moon-music-heres-a-spotify-playlist-of-the-artemis-2-crews-wakeup-songs",
+    "image": "/images/news-2026-04-07-b188c4f8.png",
+    "publishedAt": "2026-04-06T21:54:20.000Z",
+    "createdAt": "2026-04-07T02:47:03.084Z",
+    "reviewed": false
   }
 ]
