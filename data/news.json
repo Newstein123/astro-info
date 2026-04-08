@@ -459,5 +459,120 @@
     "publishedAt": "2026-04-06T18:00:43.000Z",
     "createdAt": "2026-04-07T08:54:07.132Z",
     "reviewed": false
+  },
+  {
+    "id": "news-2026-04-08-717f209e",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "Celestial Wonders in Leo",
+    "title": "လီယိုကြယ်စုရှိ ကောင်းကင်ဘုံအံ့ဖွယ်ရာများ",
+    "summary": "ဧပြီလတွင် လီယိုကြယ်စုသည် ကြယ်ကြည့်သူများအတွက် ထင်ရှားသော မြင်ကွင်းတစ်ခုဖြစ်သည်။ ၎င်း၏ထင်ရှားသော ဓါးမကောက်ပုံသဏ္ဍာန်နှင့် တောက်ပသော ရီဂူးလပ်စ်ကြယ်တို့သည် စတင်သူများကိုပင် ဆွဲဆောင်သည်။ လီယိုကြယ်စုတွင် ကြယ်နှစ်လုံးတွဲနှင့် နဂါးငွေ့တန်းသုံးလုံးတွဲ အပါအဝင် ကောင်းကင်ဘုံဆိုင်ရာ ဆွဲဆောင်မှုများစွာကို တွေ့မြင်နိုင်သည်။",
+    "tags": [
+      "Leo",
+      "Regulus",
+      "Stargazing",
+      "Constellations",
+      "Astronomy",
+      "April",
+      "Double Stars",
+      "Galaxies"
+    ],
+    "category": "astronomy",
+    "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/celestial-wonders-in-leo/",
+    "image": "/images/news-2026-04-08-717f209e.png",
+    "publishedAt": "2026-04-08T03:01:24.000Z",
+    "createdAt": "2026-04-08T08:53:19.230Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-08-b528ea36",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "NASA’s Artemis II Crew Beams Official Moon Flyby Photos to Earth",
+    "title": "နာဆာ၏ အာတီမစ် ၂ အဖွဲ့သားများက လကမ္ဘာကို ကျော်ဖြတ်ပျံသန်းမှု ဓာတ်ပုံများကို ကမ္ဘာသို့ ပေးပို့",
+    "summary": "နာဆာ၏ အာတီမစ် ၂ အာကာသယာဉ်မှူးများက ၎င်းတို့၏ သမိုင်းဝင် စမ်းသပ်ပျံသန်းမှုအတွင်း ရိုက်ကူးခဲ့သည့် ပထမဆုံး လကမ္ဘာကို ကျော်ဖြတ်ပျံသန်းမှု ဓာတ်ပုံများသည် လူသားများ မမြင်ဖူးသေးသည့် ဒေသအချို့ကို ဖော်ထုတ်ပြသခဲ့ပြီး၊ အာကာသအတွင်း ရှားပါးသော နေကြတ်ခြင်းပုံများလည်း ပါဝင်သည်။ ဧပြီလ ၆ ရက်နေ့တွင် အာကာသယာဉ်မှူးများသည် လကမ္ဘာ၏ အဝေးဘက်ခြမ်းကို ၇ နာရီကြာ ကျော်ဖြတ်ပျံသန်းစဉ် ဤပုံများကို ရိုက်ကူးခဲ့ခြင်းဖြစ်ပြီး၊ လူသားတို့ လကမ္ဘာသို့ ပြန်လည်ရောက်ရှိတော့မည့် အမှတ်အသားတစ်ခုဖြစ်သည်။",
+    "tags": [
+      "NASA",
+      "Artemis II",
+      "Moon",
+      "Space Exploration",
+      "Astronauts",
+      "Lunar Flyby",
+      "Solar Eclipse"
+    ],
+    "category": "space-news",
+    "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-beams-official-moon-flyby-photos-to-earth/",
+    "image": "/images/news-2026-04-08-b528ea36.png",
+    "publishedAt": "2026-04-07T20:44:05.000Z",
+    "createdAt": "2026-04-08T08:53:29.227Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-08-f747238e",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "Earthset",
+    "title": "ကမ္ဘာမြေဝင်ဆည်းဆာ",
+    "summary": "အာတီးမစ် ၂ အဖွဲ့သားများသည် ၂၀၂၆ ခုနှစ်၊ ဧပြီလ ၆ ရက်နေ့တွင် လပတ်လမ်းကြောင်းမှ ကမ္ဘာမြေဝင်ဆည်းဆာ မြင်ကွင်းကို မှတ်တမ်းတင်ရိုက်ကူးခဲ့သည်။ လ၏အဝေးဘက်ခြမ်းကို ဖြတ်ပျံသန်းစဉ် အဖွဲ့သားများသည် လပေါ်ရှိ ဥက္ကာပျံကျရောက်မှုကြောင့်ဖြစ်သော ချိုင့်ခွက်များ၊ ရှေးဟောင်းလာဗာစီးဆင်းမှုများနှင့် အချိန်ကြာလာသည်နှင့်အမျှ လ၏ e မျက်နှာပြင်တွင် ဖြစ်ပေါ်လာသော အက်ကြောင်းများနှင့် ကုန်းတန်းများကဲ့သို့သော မျက်နှာပြင်လက္ခဏာများကို ဓာတ်ပုံရိုက်ကူးကာ ဖော်ပြခဲ့သည်။",
+    "tags": [
+      "Artemis II",
+      "Moon",
+      "Earthset",
+      "Space Exploration",
+      "Lunar Features",
+      "Astronauts"
+    ],
+    "category": "space-news",
+    "link": "https://www.nasa.gov/image-article/earthset/",
+    "image": "/images/news-2026-04-08-f747238e.png",
+    "publishedAt": "2026-04-07T18:54:50.000Z",
+    "createdAt": "2026-04-08T08:53:39.198Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-08-a7a6020b",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "Experience the Rollout of SLS Hardware for Artemis III",
+    "title": "အာတဲမစ် ၃ အတွက် SLS စက်ပစ္စည်းများ လှိမ့်ထုတ်ခြင်းကို တွေ့ကြုံခံစားပါ",
+    "summary": "NASA ၏ တတိယမြောက် SLS (Space Launch System) အဓိက အဆင့်ကို Michoud စုစည်းရေးစက်ရုံမှ Kennedy အာကာသစင်တာသို့ ပို့ဆောင်ရန် ပြင်ဆင်နေစဉ် ၎င်း၏ လှိမ့်ထုတ်မှုကို တက်ရောက်ရန် ဒစ်ဂျစ်တယ် ဖန်တီးသူများနှင့် လူမှုမီဒီယာ အသုံးပြုသူများကို ဖိတ်ခေါ်ထားပါသည်။ လူမှုမီဒီယာနှင့် ဆက်သွယ်ရေးကို စိတ်အားထက်သန်ပြီး အကြောင်းအရာများ ဖန်တီးလိုသူများအတွက် ဤအရေးကြီးသောဖြစ်စဉ်ကို တွေ့ကြုံခံစားရန် အခွင့်အရေးဖြစ်ပါသည်။",
+    "tags": [
+      "SLS",
+      "Artemis III",
+      "NASA",
+      "Space Launch System",
+      "Rollout",
+      "Michoud Assembly Facility",
+      "Kennedy Space Center",
+      "Space Exploration",
+      "Social Media"
+    ],
+    "category": "space-exploration",
+    "link": "https://www.nasa.gov/general/experience-the-rollout-of-sls-hardware-for-artemis-iii/",
+    "image": "/images/news-2026-04-08-a7a6020b.png",
+    "publishedAt": "2026-04-07T17:52:09.000Z",
+    "createdAt": "2026-04-08T08:54:33.215Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-08-5cced3ac",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " The Artemis 2 space toilet is actually working fine. But there is another problem ",
+    "title": "အာတဲမစ် ၂ အာကာသ အိမ်သာသည် ကောင်းမွန်စွာ အလုပ်လုပ်နေသော်လည်း အခြားပြဿနာတစ်ခု ရှိနေသည်။",
+    "summary": "အာတဲမစ် ၂ မစ်ရှင်အတွက် အာကာသယာဉ်မှူးများ အသုံးပြုမည့် အာကာသ အိမ်သာသည် ကောင်းမွန်စွာ အလုပ်လုပ်နေပါသည်။ သို့သော် အသုံးပြုပြီးနောက် စွန့်ပစ်ပစ္စည်းများ သိုလှောင်ထားသည့် ကန်ကို ရှင်းလင်းရာတွင် စိန်ခေါ်မှုများ ရှိနေကြောင်း သိရသည်။",
+    "tags": [
+      "Artemis 2",
+      "Space Toilet",
+      "NASA",
+      "Space Technology",
+      "Waste Management"
+    ],
+    "category": "space-exploration",
+    "link": "https://www.space.com/space-exploration/artemis/the-artemis-2-space-toilet-is-actually-working-fine-but-there-is-another-problem",
+    "image": "/images/news-2026-04-08-5cced3ac.png",
+    "publishedAt": "2026-04-07T22:31:46.000Z",
+    "createdAt": "2026-04-08T08:55:31.589Z",
+    "reviewed": false
   }
 ]
