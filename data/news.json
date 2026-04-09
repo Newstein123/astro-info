@@ -574,5 +574,119 @@
     "publishedAt": "2026-04-07T22:31:46.000Z",
     "createdAt": "2026-04-08T08:55:31.589Z",
     "reviewed": false
+  },
+  {
+    "id": "news-2026-04-09-8857179a",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "Snow in the Shadow of the Andes",
+    "title": "Andes တောင်တန်းကြီး၏ အရိပ်အောက်မှ နှင်းများ",
+    "summary": "အာဂျင်တီးနားနိုင်ငံတောင်ပိုင်းရှိ မြင့်မားသောဒေသများတွင် ဆောင်းဦးရာသီအစောပိုင်း မုန်တိုင်းတစ်ခု ဖြတ်သန်းသွားခဲ့သည်။ ထိုမုန်တိုင်းကြောင့် ဒေသတွင်း၌ ခဏတာမျှ နှင်းများကျရောက်ခဲ့ပြီး မြေပြင်ကို ဖြူဖွေးသောအသွင်ဆောင်စေခဲ့သည်။",
+    "tags": [
+      "Snow",
+      "Andes",
+      "Argentina",
+      "Autumn storm",
+      "Weather"
+    ],
+    "category": "weather-phenomena",
+    "link": "https://science.nasa.gov/earth/earth-observatory/snow-in-the-shadow-of-the-andes/",
+    "image": "/images/news-2026-04-09-8857179a.png",
+    "publishedAt": "2026-04-09T04:01:00.000Z",
+    "createdAt": "2026-04-09T08:59:08.612Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-09-4a412fd9",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "Twin NASA Control Rooms Support Artemis Safety, Success",
+    "title": "နာဆာ ထိန်းချုပ်ခန်းနှစ်ခုက အာတဲမစ်ရဲ့ ဘေးကင်းရေးနဲ့ အောင်မြင်မှုကို အထောက်အပံ့ပေး",
+    "summary": "နာဆာရဲ့ မာရှယ်အာကာသပျံသန်းရေးစင်တာ (Marshall Space Flight Center) မှာရှိတဲ့ ထိန်းချုပ်ခန်းနှစ်ခုဟာ အာတဲမစ်-၂ မစ်ရှင်ရဲ့ လပတ်လမ်းကြောင်းရှိ မစ်ရှင်လုပ်ငန်းဆောင်တာတွေကို အချိန်နဲ့တပြေးညီ ပံ့ပိုးပေးနေပါတယ်။ ဧပြီလ ၁၀ ရက် သောကြာနေ့မှာ ကမ္ဘာမြေကို ပြန်လာဖို့ ပြင်ဆင်နေတဲ့ အာကာသယာဉ်မှူးတွေရဲ့ ဘေးကင်းရေးနဲ့ မစ်ရှင်အောင်မြင်ရေးကို သေချာစေဖို့အတွက် LUCA (Lunar Utilization Control Area) နဲ့ LESA ထိန်းချုပ်ခန်းတွေက ကူညီပေးနေတာ ဖြစ်ပါတယ်။",
+    "tags": [
+      "NASA",
+      "Artemis II",
+      "Control Room",
+      "Marshall Space Flight Center",
+      "Lunar Mission",
+      "Astronaut Safety",
+      "Space Operations"
+    ],
+    "category": "space-exploration",
+    "link": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/twin-nasa-control-rooms-support-artemis-safety-success/",
+    "image": "/images/news-2026-04-09-4a412fd9.png",
+    "publishedAt": "2026-04-08T18:13:42.000Z",
+    "createdAt": "2026-04-09T08:59:18.833Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-09-2d6e4867",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "Solar Eclipse of the Heart",
+    "title": "နှလုံးသား၏ နေကြတ်ခြင်း",
+    "summary": "၂၀၂၆ ခုနှစ်၊ ဧပြီလ ၆ ရက်နေ့တွင် ဖြစ်ပွားခဲ့သော နေကြတ်ခြင်းအတွင်း နေ၏အလင်းပြန်ခြင်းကိုခံနေရသည့် လအား Orion အာကာသယာဉ်၏ နေရောင်ခြည်စွမ်းအင်ပြားတောင်ပံများပေါ်ရှိ ကင်မရာတစ်လုံးမှ မှတ်တမ်းတင်ရိုက်ကူးထားသည်။ Artemis II အာကာသယာဉ်မှူးများသည် လကိုဖြတ်ပျံသန်းစဉ် ၎င်းတို့၏ ထူးခြားသောတည်နေရာကြောင့် ၎င်းတို့သာ မြင်တွေ့နိုင်သည့် နေကြတ်ခြင်းကို ကြည့်ရှုလေ့လာခဲ့ကြသည်။",
+    "tags": [
+      "Solar Eclipse",
+      "Moon",
+      "Sun",
+      "Orion spacecraft",
+      "Artemis II",
+      "Astronauts",
+      "Lunar Flyby",
+      "Space Photography",
+      "2026 Eclipse"
+    ],
+    "category": "space-exploration",
+    "link": "https://www.nasa.gov/image-article/solar-eclipse-of-the-heart/",
+    "image": "/images/news-2026-04-09-2d6e4867.png",
+    "publishedAt": "2026-04-08T17:12:50.000Z",
+    "createdAt": "2026-04-09T08:59:28.400Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-09-0bc84303",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "A Volcanic Medley Near Mammoth Lakes ",
+    "title": "မမ်မော့သ်ရေကန်များအနီးရှိ မီးတောင်မျိုးစုံ",
+    "summary": "အရှေ့ပိုင်း ဆီရာနီဗားဒါးဒေသတွင် ကြီးမားသော ရှေးဟောင်းမီးတောင်ဝိုင်းကြီးများနှင့် မကြာသေးမီက ဖြစ်ပေါ်ခဲ့သော မီးတောင်ဝများက မြေမျက်နှာပြင်ကို ပုံဖော်ထားသည်။ ဤဒေသသည် ရှေးကျသော မီးတောင်လှုပ်ရှားမှုများနှင့် ခေတ်သစ်မီးတောင်ဖြစ်စဉ်များ၏ ထူးခြားသော သက်သေခံတစ်ခုဖြစ်သည်။",
+    "tags": [
+      "Volcanic",
+      "Caldera",
+      "Craters",
+      "Sierra Nevada",
+      "Mammoth Lakes",
+      "Geology",
+      "Landscape"
+    ],
+    "category": "geology",
+    "link": "https://science.nasa.gov/earth/earth-observatory/a-volcanic-medley-near-mammoth-lakes/",
+    "image": "/images/news-2026-04-09-0bc84303.png",
+    "publishedAt": "2026-04-08T04:01:00.000Z",
+    "createdAt": "2026-04-09T09:00:20.136Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-09-d3558c21",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "NASA to Host Media Call with Artemis II Crew on Way Home from Moon",
+    "title": "လကမ္ဘာမှ အပြန်ခရီးတွင် Artemis II အဖွဲ့သားများနှင့် NASA က မီဒီယာခေါ်ဆိုမှု ပြုလုပ်မည်",
+    "summary": "မီဒီယာများသည် ဧပြီလ ၈ ရက်၊ ဗုဒ္ဓဟူးနေ့၊ ည ၁၀ နာရီ ၄၅ မိနစ် (အရှေ့တိုင်းစံတော်ချိန်) တွင် NASA ၏ Artemis II အဖွဲ့သားများနှင့် စကားပြောဆိုခွင့်ရရှိမည်ဖြစ်သည်။ ၎င်းတို့သည် သမိုင်းဝင်လကမ္ဘာပတ်မစ်ရှင်မှ ကမ္ဘာမြေသို့ အပြန်ခရီးတွင် ရှိနေစဉ် ၂၀ မိနစ်ကြာ မီဒီယာခေါ်ဆိုမှု ပြုလုပ်မည်ဖြစ်သည်။",
+    "tags": [
+      "NASA",
+      "Artemis II",
+      "Moon",
+      "Space Mission",
+      "Crew",
+      "Media Call"
+    ],
+    "category": "space-exploration",
+    "link": "https://www.nasa.gov/news-release/nasa-to-host-media-call-with-artemis-ii-crew-on-way-home-from-moon/",
+    "image": "/images/news-2026-04-09-d3558c21.png",
+    "publishedAt": "2026-04-07T16:38:04.000Z",
+    "createdAt": "2026-04-09T09:00:51.829Z",
+    "reviewed": false
   }
 ]
