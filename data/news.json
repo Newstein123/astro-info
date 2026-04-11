@@ -805,5 +805,118 @@
     "publishedAt": "2026-04-09T19:28:07.000Z",
     "createdAt": "2026-04-10T09:01:45.341Z",
     "reviewed": false
+  },
+  {
+    "id": "news-2026-04-11-226dfe50",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " Splashdown! Artemis 2 astronauts return to Earth after historic NASA mission to the moon ",
+    "title": "ရေထဲဆင်းသက်! အာတဲမစ် ၂ အာကာသယာဉ်မှူးများ သမိုင်းဝင် နာဆာ လ ကမ္ဘာ့မစ်ရှင်ပြီးနောက် ကမ္ဘာမြေသို့ ပြန်လည်ရောက်ရှိ",
+    "summary": "နာဆာ၏ အာတဲမစ် ၂ အာကာသယာဉ်မှူးများသည် ယနေ့ (ဧပြီ ၁၀) ရက်နေ့တွင် ကမ္ဘာမြေသို့ ပြန်လည်ရောက်ရှိခဲ့သည်။ ၎င်းတို့သည် အာကာသပျံသန်းမှု စံချိန်များကို ချိုးဖျက်ခဲ့ပြီး ပိုမိုကြီးကျယ်သော လ ကမ္ဘာ့မစ်ရှင်များအတွက် လမ်းခင်းပေးခဲ့သည့် ခမ်းနားသော မစ်ရှင်ကို အဆုံးသတ်ခဲ့သည်။",
+    "tags": [
+      "Artemis 2",
+      "NASA",
+      "Moon Mission",
+      "Astronauts",
+      "Spaceflight"
+    ],
+    "category": "Space Exploration",
+    "link": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-return-to-earth-ending-historic-moon-mission",
+    "image": "/images/news-2026-04-11-226dfe50.png",
+    "publishedAt": "2026-04-11T00:24:52.000Z",
+    "createdAt": "2026-04-11T08:19:19.693Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-11-84d85201",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " NEAF 2026 returns to New York this weekend with all-star astronaut lineup and 'world's largest' space expo ",
+    "title": "NEAF 2026 ပြပွဲသည် နာမည်ကြီး အာကာသယာဉ်မှူးများစွာနှင့် 'ကမ္ဘာ့အကြီးဆုံး' အာကာသပြပွဲတို့ဖြင့် ယခုသီတင်းပတ်ကုန်တွင် နယူးယောက်သို့ ပြန်လည်ရောက်ရှိမည်။",
+    "summary": "ကမ္ဘာ့အကြီးဆုံးနှင့် အခမ်းနားဆုံး နက္ခတ္တဗေဒနှင့် အာကာသပြပွဲကြီးကို ယခုသီတင်းပတ်ကုန်တွင် ကျင်းပမည်ဖြစ်သည်။ ၎င်းပြပွဲသို့ ထောင်နှင့်ချီသော ဝါသနာရှင်များ၊ ပညာရှင်များနှင့် စူးစမ်းလိုသူများ စုဝေးရောက်ရှိလာကြမည်ဖြစ်သည်။",
+    "tags": [
+      "NEAF 2026",
+      "New York",
+      "Astronauts",
+      "Space Expo",
+      "Astronomy",
+      "Space Science",
+      "Event"
+    ],
+    "category": "space-events",
+    "link": "https://www.space.com/astronomy/neaf-2026-returns-to-new-york-this-weekend-with-all-star-astronaut-lineup-and-worlds-largest-space-expo",
+    "image": "/images/news-2026-04-11-84d85201.png",
+    "publishedAt": "2026-04-10T19:00:00.000Z",
+    "createdAt": "2026-04-11T08:19:28.796Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-11-ef6b40fd",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " The Artemis 2 astronauts saw a rare solar eclipse from beyond the moon. Here's what it looked like ",
+    "title": "အာတဲမစ် ၂ အာကာသယာဉ်မှူးများသည် လကမ္ဘာကိုကျော်လွန်၍ ရှားပါးနေကြတ်ခြင်းကို မြင်တွေ့ခဲ့ရသည်။ ၎င်းသည် မည်သို့ပုံပန်းသဏ္ဍာန်ရှိခဲ့ပုံ။",
+    "summary": "NASA မှ မကြာသေးမီက ထုတ်ပြန်ခဲ့သော Timelapse ဗီဒီယိုတစ်ခုတွင် လသည် နေကို ဖြတ်ကျော်နေပုံကို အာကာသနက်ပိုင်းမှ မြင်တွေ့ရသည်။ ၎င်းသည် အာတဲမစ် ၂ အဖွဲ့သားများအား နေကြတ်ခြင်းအပြည့်အဝနှင့် နေရောင်ခြည်သရဖူကို ရှားပါးစွာ အချိန်ကြာမြင့်စွာ ရှုမြင်ခွင့်ပေးခဲ့သည်။",
+    "tags": [
+      "Artemis 2",
+      "Solar Eclipse",
+      "NASA",
+      "Space",
+      "Moon",
+      "Sun",
+      "Astronauts"
+    ],
+    "category": "space-exploration",
+    "link": "https://www.space.com/space-exploration/artemis/the-artemis-2-astronauts-saw-a-rare-solar-eclipse-from-beyond-the-moon-heres-what-it-looked-like",
+    "image": "/images/news-2026-04-11-ef6b40fd.png",
+    "publishedAt": "2026-04-10T17:18:28.000Z",
+    "createdAt": "2026-04-11T08:19:38.533Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-11-b7e26ff3",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " Why I'm hunting for Comet Pan-STARRS right now — before it's too late ",
+    "title": "အချိန်မနှောင်းခင် အခုပဲ Pan-STARRS ကြယ်တံခွန်ကို ဘာလို့ ရှာဖွေနေရတာလဲ။",
+    "summary": "နှစ်ပေါင်း ၁၇၀,၀၀၀ ကြာမှ ပြန်လာတဲ့ ရှားပါး ကြာရှည်ကာလ ကြယ်တံခွန်တစ်စင်းဖြစ်တဲ့ C/2025 R3 (Pan-STARRS) ကို ဒီဧပြီလ နေမထွက်ခင် ဘယ်လိုရှာဖွေရမလဲဆိုတာ ဖော်ပြပေးထားပါတယ်။ အဓိကရက်စွဲများ၊ ကြည့်ရှုနည်း အကြံပြုချက်များနှင့် ကြည့်ရှုရန် အကောင်းဆုံး နံနက်ခင်းများကိုလည်း ထည့်သွင်းဖော်ပြထားပါတယ်။",
+    "tags": [
+      "Comet Pan-STARRS",
+      "C/2025 R3",
+      "Astronomy",
+      "Comet Viewing",
+      "Space News"
+    ],
+    "category": "comet-observation",
+    "link": "https://www.space.com/astronomy/comets/why-im-hunting-for-comet-pan-starrs-right-now-before-its-too-late",
+    "image": "/images/news-2026-04-11-b7e26ff3.png",
+    "publishedAt": "2026-04-10T17:00:00.000Z",
+    "createdAt": "2026-04-11T08:19:47.744Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-11-ad104a1d",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " 'They’re not shipping cows up to Mars': 'For All Mankind' creators talk scientific accuracy and colonial inspirations behind season 5 (interview) ",
+    "title": "'For All Mankind' ဖန်တီးသူများက သိပ္ပံနည်းကျ တိကျမှုနှင့် ရာသီ ၅ နောက်က ကိုလိုနီနယ်ချဲ့မှု စေ့ဆော်မှုများအကြောင်း ပြောကြား (အင်တာဗျူး)",
+    "summary": "\"For All Mankind\" ဇာတ်လမ်းတွဲ ဖန်တီးသူများဖြစ်ကြသည့် Ben Nedivi နှင့် Matt Wolbert တို့သည် ၎င်းတို့၏ ဇာတ်လမ်းတွဲ ရာသီ ၅ ၏ ဒရာမာဆန်သော ဇာတ်လမ်းအလှည့်အပြောင်းများ၊ သိပ္ပံနည်းကျ တိကျမှုများနှင့် လက်တွေ့ကမ္ဘာနှင့် ဆက်စပ်မှုများအကြောင်း ဆွေးနွေးပြောကြားခဲ့ကြသည်။ ဤအင်တာဗျူးတွင် ၎င်းတို့သည် ဇာတ်လမ်းတွဲ၏ အယူအဆများနှင့် ပတ်သက်၍ အသေးစိတ် ရှင်းပြခဲ့ကြသည်။",
+    "tags": [
+      "For All Mankind",
+      "Ben Nedivi",
+      "Matt Wolbert",
+      "Season 5",
+      "Scientific Accuracy",
+      "Space Exploration",
+      "Interview",
+      "TV Series",
+      "Alternate History"
+    ],
+    "category": "space-entertainment",
+    "link": "https://www.space.com/entertainment/space-movies-shows/theyre-not-shipping-cows-up-to-mars-for-all-mankind-creators-talk-scientific-accuracy-and-colonial-inspirations-behind-season-5-interview",
+    "image": "/images/news-2026-04-11-ad104a1d.png",
+    "publishedAt": "2026-04-10T15:00:00.000Z",
+    "createdAt": "2026-04-11T08:20:18.501Z",
+    "reviewed": false
   }
 ]
