@@ -1039,5 +1039,121 @@
     "publishedAt": "2026-04-10T16:33:43.000Z",
     "createdAt": "2026-04-12T08:39:43.043Z",
     "reviewed": false
+  },
+  {
+    "id": "news-2026-04-13-df40f233",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "Indoor Testing Facilities available at the NASA Unmanned Autonomy Research Complex (NUARC)",
+    "title": "NASA Unmanned Autonomy Research Complex (NUARC) ရှိ အိမ်တွင်းစမ်းသပ်စစ်ဆေးရေး အဆောက်အအုံများ",
+    "summary": "NASA Unmanned Autonomy Research Complex (NUARC) တွင် အိမ်တွင်းစမ်းသပ်စစ်ဆေးရေး အဆောက်အအုံများ ရှိပြီး ၎င်းတို့အနက် WindShaper ပန်ကာစနစ်သည် အရေးပါသော အခန်းကဏ္ဍမှ ပါဝင်ပါသည်။ ၎င်း WindShaper ကို အနိမ့်ပိုင်းအမြန်နှုန်းနှင့် ဝဲပျံပျံသန်းမှုဆိုင်ရာ သုတေသနပြုလုပ်ရန်အတွက် အသုံးပြုပြီး Python API မှတစ်ဆင့် လေစီးကြောင်းပြောင်းလဲမှုများနှင့် လေပြင်းများကို ဖန်တီးပေးနိုင်ပါသည်။ WindProbe ကိရိယာကိုလည်း လေစီးကြောင်းများကို လျင်မြန်စွာ စစ်ဆေးတိုင်းတာရန် အသုံးပြုပါသည်။",
+    "tags": [
+      "NASA",
+      "NUARC",
+      "WindShaper",
+      "WindProbe",
+      "Testing Facilities",
+      "Research",
+      "Autonomy",
+      "Flight Research",
+      "Aerospace",
+      "Engineering"
+    ],
+    "category": "aerospace-testing",
+    "link": "https://www.nasa.gov/centers-and-facilities/ames/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/",
+    "image": "/images/news-2026-04-13-df40f233.png",
+    "publishedAt": "2026-04-09T21:54:19.000Z",
+    "createdAt": "2026-04-13T09:27:19.275Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-13-83140254",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " From spa to boat party: 10 epic events for the Aug. 12, 2026, total solar eclipse in Spain and Iceland ",
+    "title": "သြဂုတ်လ ၁၂ ရက်၊ ၂၀၂၆ ခုနှစ်တွင် စပိန်နှင့် အိုက်စလန်တို့၌ ဖြစ်ပေါ်မည့် နေအပြည့်ကြတ်ခြင်းအတွက် အခမ်းအနားကြီး ၁၀ ခု",
+    "summary": "၂၀၂၆ ခုနှစ်၊ သြဂုတ်လ ၁၂ ရက်နေ့တွင် ဖြစ်ပေါ်မည့် နေအပြည့်ကြတ်ခြင်းကို စပိန်နှင့် အိုက်စလန်နိုင်ငံတို့မှ အထူးအစီအစဉ်များဖြင့် အတွေ့အကြုံယူနိုင်ပါသည်။ နေကြတ်လမ်းကြောင်းတစ်လျှောက်တွင် ပွဲတော်များ၊ အပန်းဖြေစခန်းများ (spa) နှင့် ကောင်းကင်လေ့လာရေး အခမ်းအနားများ အပါအဝင် စိတ်လှုပ်ရှားဖွယ်ရာ အစီအစဉ်များစွာ ပါဝင်မည်ဖြစ်သည်။",
+    "tags": [
+      "Solar Eclipse",
+      "2026 Eclipse",
+      "Spain",
+      "Iceland",
+      "Astronomy Events",
+      "Skywatching",
+      "Festivals",
+      "Travel"
+    ],
+    "category": "solar-eclipse",
+    "link": "https://www.space.com/stargazing/solar-eclipses/from-spa-to-boat-party-10-epic-events-for-the-aug-12-2026-total-solar-eclipse-in-spain-and-iceland",
+    "image": "/images/news-2026-04-13-83140254.png",
+    "publishedAt": "2026-04-12T13:00:00.000Z",
+    "createdAt": "2026-04-13T09:28:39.734Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-13-afd45227",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " 'The most special thing that will ever happen in my life': Artemis 2 astronauts describe their epic moon mission ",
+    "title": "အာတဲမစ် ၂ အာကာသယာဉ်မှူးများ ၎င်းတို့၏ ခမ်းနားထည်ဝါသော လပေါ်ခရီးစဉ်ကို 'ကျွန်ုပ်ဘဝတွင် ဖြစ်ပေါ်လာမည့် အထူးခြားဆုံးအရာ' ဟု ဖော်ပြ",
+    "summary": "အာတဲမစ် ၂ အာကာသယာဉ်မှူးများသည် ကမ္ဘာမြေသို့ ပြန်လည်ရောက်ရှိလာကြပြီး ၎င်းတို့၏ သမိုင်းဝင် လပေါ်မစ်ရှင်အတွေ့အကြုံများကို ပြန်လည်သုံးသပ်နေကြပြီဖြစ်သည်။ သို့သော် ၎င်းတို့အတွက် ထိုအတွေ့အကြုံများကို စကားလုံးများဖြင့် ဖော်ပြရန်မှာ ခက်ခဲနေဆဲဖြစ်သည်။",
+    "tags": [
+      "Artemis 2",
+      "Moon Mission",
+      "Astronauts",
+      "Space Exploration",
+      "NASA"
+    ],
+    "category": "space-exploration",
+    "link": "https://www.space.com/space-exploration/artemis/the-most-special-thing-that-will-ever-happen-in-my-life-artemis-2-astronauts-describe-their-epic-moon-mission",
+    "image": "/images/news-2026-04-13-afd45227.png",
+    "publishedAt": "2026-04-12T10:00:00.000Z",
+    "createdAt": "2026-04-13T09:28:48.671Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-13-4ad173df",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " This Week In Space podcast: Episode 205 — All About Artemis ",
+    "title": "This Week In Space ပေါ့ဒ်ကတ်စ်- အပိုင်း ၂၀၅ — Artemis အကြောင်း သိမှတ်စရာများ",
+    "summary": "This Week In Space ပေါ့ဒ်ကတ်စ်၏ အပိုင်း ၂၀၅ တွင် Rod Pyle နှင့် Tariq Malik တို့သည် Artemis 2 မစ်ရှင်၏ ပျံသန်းမှုအကြောင်းကို ဆွေးနွေးခဲ့ကြသည်။ ၎င်းတို့သည် မစ်ရှင်၏ အရေးပါပုံနှင့် နောက်ဆုံးရသတင်းများကို ဖော်ပြခဲ့ကြသည်။",
+    "tags": [
+      "Artemis",
+      "Artemis 2",
+      "Space Exploration",
+      "Podcast",
+      "NASA"
+    ],
+    "category": "space-exploration",
+    "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-205-all-about-artemis",
+    "image": "/images/news-2026-04-13-4ad173df.png",
+    "publishedAt": "2026-04-11T13:05:39.000Z",
+    "createdAt": "2026-04-13T09:29:19.186Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-13-2cc0b4e9",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " SpaceX launches huge 'Cygnus XL' cargo ship carrying over 5 tons of supplies to ISS astronauts (video) ",
+    "title": "SpaceX သည် အာကာသယာဉ်မှူးများအတွက် ၅ တန်ကျော်ထောက်ပံ့ရေးပစ္စည်းများ သယ်ဆောင်လာသော ကြီးမားသည့် 'Cygnus XL' ကုန်တင်ယာဉ်ကို လွှတ်တင် (ဗီဒီယို)",
+    "summary": "Northrop Grumman ၏ ဒုတိယမြောက် \"Cygnus XL\" ကုန်တင်ယာဉ်သည် နိုင်ငံတကာ အာကာသစခန်းသို့ ဧပြီလ ၁၁ ရက် စနေနေ့ နံနက်ပိုင်းတွင် လွှတ်တင်ခဲ့သည်။ ၎င်းသည် အာကာသယာဉ်မှူးများအတွက် ၅ တန်ကျော်ရှိသော ထောက်ပံ့ရေးပစ္စည်းများကို သယ်ဆောင်သွားခဲ့သည်။",
+    "tags": [
+      "SpaceX",
+      "Cygnus XL",
+      "Cargo Ship",
+      "ISS",
+      "Northrop Grumman",
+      "Space Launch",
+      "Astronauts",
+      "Supplies"
+    ],
+    "category": "spaceflight",
+    "link": "https://www.space.com/space-exploration/international-space-station/northrop-grumman-second-cygnus-xl-cargo-launch-spacex-iss",
+    "image": "/images/news-2026-04-13-2cc0b4e9.png",
+    "publishedAt": "2026-04-11T11:31:53.000Z",
+    "createdAt": "2026-04-13T09:29:27.534Z",
+    "reviewed": false
   }
 ]
