@@ -1155,5 +1155,120 @@
     "publishedAt": "2026-04-11T11:31:53.000Z",
     "createdAt": "2026-04-13T09:29:27.534Z",
     "reviewed": false
+  },
+  {
+    "id": "news-2026-04-14-a7359fc2",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "Super Typhoon Sinlaku",
+    "title": "စူပါတိုင်ဖွန်း စင်လကူ",
+    "summary": "၂၀၂၆ ခုနှစ် ဧပြီလလယ်တွင် အမေရိကန် မြောက်ပိုင်းမာရီယာနာကျွန်းစုများနှင့် ဂူအမ်ကျွန်းတို့ကို အင်အားပြင်းထန်သော မုန်တိုင်းတစ်ခု ဝင်ရောက်တိုက်ခတ်ခဲ့သည်။ ဤမုန်တိုင်းသည် အဆိုပါဒေသများအတွက် ကြီးမားသော အန္တရာယ်များကို ယူဆောင်လာခဲ့သည်။",
+    "tags": [
+      "Super Typhoon Sinlaku",
+      "storm",
+      "Northern Mariana Islands",
+      "Guam",
+      "natural disaster",
+      "weather",
+      "2026"
+    ],
+    "category": "natural-disaster",
+    "link": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-sinlaku/",
+    "image": "/images/news-2026-04-14-a7359fc2.png",
+    "publishedAt": "2026-04-14T04:00:00.000Z",
+    "createdAt": "2026-04-14T09:09:09.630Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-14-a33bef12",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "NASA Announces 32nd Annual Human Exploration Rover Challenge Winners",
+    "title": "နာဆာက ၃၂ ကြိမ်မြောက် လူသားစူးစမ်းလေ့လာရေး ရိုဗာစိန်ခေါ်ပွဲ အနိုင်ရရှိသူများကို ကြေညာ",
+    "summary": "နာဆာ၏ ၃၂ ကြိမ်မြောက် နှစ်ပတ်လည် လူသားစူးစမ်းလေ့လာရေး ရိုဗာစိန်ခေါ်ပွဲသည် ဧပြီလ ၁၀ ရက်နှင့် ၁၁ ရက်တို့တွင် အမေရိကန်ပြည်ထောင်စု၊ အာလာဘားမားပြည်နယ်၊ ဟန့်စ်ဗီးလ်မြို့ရှိ U.S. Space & Rocket Center ၌ နောက်ဆုံးထွက်ခွာခြင်း အစီအစဉ်ဖြင့် ပြီးဆုံးသွားခဲ့သည်။ ၎င်းသည် နာဆာ၏ သက်တမ်းအကြာဆုံး ကျောင်းသားစိန်ခေါ်ပွဲများထဲမှ တစ်ခုဖြစ်ပြီး ကမ္ဘာတစ်ဝန်းမှ ကျောင်းသားအဖွဲ့များကို ဒီဇိုင်းထုတ်ရန်၊ တည်ဆောက်ရန်နှင့် စမ်းသပ်ရန် တာဝန်ပေးခဲ့သည်။",
+    "tags": [
+      "NASA",
+      "Rover Challenge",
+      "Human Exploration",
+      "Students",
+      "Space Exploration",
+      "Competition",
+      "Marshall Space Flight Center"
+    ],
+    "category": "space-news",
+    "link": "https://www.nasa.gov/centers-and-facilities/marshall/nasa-announces-32nd-annual-human-exploration-rover-challenge-winners/",
+    "image": "/images/news-2026-04-14-a33bef12.png",
+    "publishedAt": "2026-04-13T21:23:11.000Z",
+    "createdAt": "2026-04-14T09:10:07.958Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-14-ca3cf380",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "Curiosity Blog, Sols 4852–4858: When Data Take Their Time…",
+    "title": "Curiosity ဘလော့၊ Sols ၄၈၅၂–၄၈၅၈- ဒေတာများ အချိန်ယူလာသောအခါ...",
+    "summary": "Curiosity ယာဉ်အတွက် Sols ၄၈၅၂-၄၈၅၃ တို့၏ စီမံကိန်းရေးဆွဲရာတွင် ဒေတာများ အချိန်မီမရောက်ရှိခဲ့ကြောင်း ဤဘလော့ပို့စ်တွင် ဖော်ပြထားသည်။ ထိုအခါ စီမံကိန်းအဖွဲ့သည် တီထွင်ဖန်တီးမှုဖြင့် လုပ်ဆောင်ခဲ့ကြရသည်။ ဆောင်းပါးရှင် Susanne P. Schwenzer သည် ထိုအချိန်က ဘူမိဗေဒသိပ္ပံအဖွဲ့ခေါင်းဆောင်အဖြစ် ဆောင်ရွက်ခဲ့သည်။",
+    "tags": [
+      "Curiosity",
+      "Mars Rover",
+      "Space Exploration",
+      "Data",
+      "Planning",
+      "Geology"
+    ],
+    "category": "mission-updates",
+    "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4852-4858-when-data-take-their-time/",
+    "image": "/images/news-2026-04-14-ca3cf380.png",
+    "publishedAt": "2026-04-13T20:04:25.000Z",
+    "createdAt": "2026-04-14T09:11:05.390Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-14-a674be9d",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "Curiosity Blog, Sols 4845-4851: Bye-Bye Boxwork, Bye-Bye",
+    "title": "Curiosity ဘလော့၊ Sols ၄၈၄၅-၄၈၅၁: Boxwork ကို နှုတ်ဆက်ခြင်း",
+    "summary": "ပြီးခဲ့သည့် သီတင်းပတ်ကုန်က Curiosity ယာဉ်သည် boxwork မြေမျက်နှာပြင်၏ တောင်ဘက်အစွန်ဆုံး အလွှာလိုက် ဆာလ်ဖိတ်ယူနစ်နှင့် ထိစပ်ရာနေရာကို ဖြတ်ကျော်မောင်းနှင်ခဲ့သည်။ ဤသည်မှာ ၎င်းတို့အနေဖြင့် ဤထိစပ်ရာနေရာကို တတိယအကြိမ်မြောက် ဖြတ်သန်းခြင်းဖြစ်သည်။ ဤဖြတ်သန်းမှုသည် ဤထူးခြားသော ဘူမိဗေဒဆိုင်ရာ ဖွဲ့စည်းပုံကို နှုတ်ဆက်ခြင်းဖြစ်ကြောင်း ဖော်ပြသည်။",
+    "tags": [
+      "Curiosity",
+      "Mars Rover",
+      "Mars",
+      "Geology",
+      "Space Exploration",
+      "Boxwork terrain",
+      "Sulfate unit"
+    ],
+    "category": "mars-exploration",
+    "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4845-4851-bye-bye-boxwork-bye-bye/",
+    "image": "/images/news-2026-04-14-a674be9d.png",
+    "publishedAt": "2026-04-13T19:37:17.000Z",
+    "createdAt": "2026-04-14T09:11:14.017Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-14-32713535",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "NASA to Host Artemis II Crew Postflight News Conference",
+    "title": "နာဆာမှ Artemis II အဖွဲ့သားများ မစ်ရှင်အပြီး သတင်းစာရှင်းလင်းပွဲ ကျင်းပမည်",
+    "summary": "ကမ္ဘာမြေသို့ ပြန်လည်ရောက်ရှိပြီးနောက် Artemis II အဖွဲ့သားများသည် ၎င်းတို့၏ သမိုင်းဝင်လကမ္ဘာပတ်မစ်ရှင်အကြောင်း ဆွေးနွေးရန် သတင်းစာရှင်းလင်းပွဲ ပြုလုပ်မည်ဖြစ်သည်။ ဧပြီလ ၁၆ ရက် ကြာသပတေးနေ့၊ ညနေ ၂:၃၀ နာရီ (EDT) တွင် နာဆာ၏ ဂျွန်ဆင်အာကာသစင်တာ၌ ကျင်းပမည်ဖြစ်ပြီး အာကာသယာဉ်မှူးများဖြစ်ကြသော Reid Wiseman, Victor Glover, Christina Koch နှင့် Jeremy Hansen တို့ ပါဝင်မည်ဖြစ်သည်။",
+    "tags": [
+      "Artemis II",
+      "NASA",
+      "Astronauts",
+      "Moon Mission",
+      "News Conference",
+      "Johnson Space Center",
+      "Space Exploration",
+      "CSA"
+    ],
+    "category": "space-exploration",
+    "link": "https://www.nasa.gov/news-release/nasa-to-host-artemis-ii-crew-postflight-news-conference/",
+    "image": "/images/news-2026-04-14-32713535.png",
+    "publishedAt": "2026-04-13T18:16:30.000Z",
+    "createdAt": "2026-04-14T09:11:22.970Z",
+    "reviewed": false
   }
 ]
