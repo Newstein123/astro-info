@@ -1270,5 +1270,118 @@
     "publishedAt": "2026-04-13T18:16:30.000Z",
     "createdAt": "2026-04-14T09:11:22.970Z",
     "reviewed": false
+  },
+  {
+    "id": "news-2026-04-15-e6440f1d",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "Contours of the James Bay Lowlands",
+    "title": "ဂျိမ်းစ်ပင်လယ်အော် နိမ့်ပိုင်းဒေသ၏ မြေမျက်နှာသွင်ပြင်များ",
+    "summary": "လောရန်တိုင်း ရေခဲပြင်ကြီးသည် ယခုလက်ရှိ ဟတ်ဆန်ပင်လယ်အော်မှ ဆုတ်ခွာသွားပြီးနောက် မြေပြန့်တက်လာမှုကြောင့် ကမ်းရိုးတန်းအနီးတစ်ဝိုက်ရှိ ထူးခြားသော မြေမျက်နှာသွင်ပြင်များကို ဖော်ထုတ်ပြသခဲ့သည်။ ဤဖြစ်စဉ်သည် ရေခဲခေတ်လွန် မြေကြီး၏ ပြောင်းလဲပုံကို ထင်ရှားစွာ ပြသနေပါသည်။",
+    "tags": [
+      "James Bay Lowlands",
+      "Hudson Bay",
+      "Laurentide Ice Sheet",
+      "geology",
+      "post-glacial rebound",
+      "topography"
+    ],
+    "category": "earth-science",
+    "link": "https://science.nasa.gov/earth/earth-observatory/contours-of-the-james-bay-lowlands/",
+    "image": "/images/news-2026-04-15-e6440f1d.png",
+    "publishedAt": "2026-04-15T04:01:00.000Z",
+    "createdAt": "2026-04-15T09:10:08.906Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-15-b9c2dcdc",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "Curiosity Blog, Sols 4859-4866: One Small Crater and Thousands of Polygons",
+    "title": "Curiosity ဘလော့၊ Sols ၄၈၅၉-၄၈၆၆: မီးတောင်ဝငယ်လေးတစ်ခုနှင့် ထောင်ပေါင်းများစွာသော ပေါ်လီဂွန်များ",
+    "summary": "ပြီးခဲ့သည့်တစ်ပတ်က Curiosity ရိုဗာသည် အချင်း ၁၀ မီတာ (၃၂ ပေ) ခန့်ရှိသော မီးတောင်ဝငယ်လေးတစ်ခုဆီသို့ မောင်းနှင်ခဲ့ပါသည်။ ယနေ့တွင် အဖွဲ့သားများသည် ထိုမီးတောင်ဝကို ချီလီနိုင်ငံရှိ ဒေသနှင့် မြို့တော်တစ်ခုကို အစွဲပြု၍ \"Antofagasta\" ဟု အမည်ပေးခဲ့ပါသည်။",
+    "tags": [
+      "Curiosity",
+      "Mars",
+      "Rover",
+      "Crater",
+      "Antofagasta",
+      "NASA",
+      "JPL",
+      "Space Exploration",
+      "Geology"
+    ],
+    "category": "mars-missions",
+    "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4859-4866-one-small-crater-and-thousands-of-polygons/",
+    "image": "/images/news-2026-04-15-b9c2dcdc.png",
+    "publishedAt": "2026-04-15T00:07:09.000Z",
+    "createdAt": "2026-04-15T09:10:39.427Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-15-0d99cf8a",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "NASA Finds Young Stars Dim in X-rays Surprisingly Quickly",
+    "title": "နာဆာမှ ငယ်ရွယ်သော ကြယ်များ အက်စ်ရေး (X-rays) တွင် မမျှော်လင့်ဘဲ လျင်မြန်စွာ မှိန်မှိန်သွားသည်ကို တွေ့ရှိ",
+    "summary": "နာဆာ၏ Chandra X-ray Observatory ကို အသုံးပြု၍ ပြုလုပ်ခဲ့သော လေ့လာမှုအသစ်တစ်ခုအရ ကျွန်ုပ်တို့၏ နေနှင့် ဆင်တူသော ငယ်ရွယ်သည့် ကြယ်များသည် ယခင်က ထင်ထားသည်ထက် ပိုမိုလျင်မြန်စွာ ငြိမ်သက်သွားပြီး ၎င်းတို့၏ အက်စ်ရေး (X-ray) ထုတ်လွှတ်မှု လျော့နည်းသွားသည်ကို သိပ္ပံပညာရှင်များ တွေ့ရှိခဲ့ကြသည်။ ဤတွေ့ရှိချက်သည် The Astrophysical Journal တွင် တနင်္လာနေ့က ထုတ်ပြန်ခဲ့သော စာတမ်းတစ်စောင်တွင် ဖော်ပြထားသည်။",
+    "tags": [
+      "NASA",
+      "Chandra X-ray Observatory",
+      "young stars",
+      "X-rays",
+      "stellar evolution",
+      "astronomy"
+    ],
+    "category": "astronomy-research",
+    "link": "https://science.nasa.gov/missions/chandra/nasa-finds-young-stars-dim-in-x-rays-surprisingly-quickly/",
+    "image": "/images/news-2026-04-15-0d99cf8a.png",
+    "publishedAt": "2026-04-14T20:34:28.000Z",
+    "createdAt": "2026-04-15T09:11:10.623Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-15-bff712e7",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "NASA Receives 7 Nominations for the 30th Annual Webby Awards",
+    "title": "နာဆာသည် ၃၀ ကြိမ်မြောက် နှစ်ပတ်လည် Webby ဆုများအတွက် ဆန်ခါတင် ၇ ခု ရရှိခဲ့",
+    "summary": "၁၉၅၈ ခုနှစ်တွင် စတင်တည်ထောင်ခဲ့သည့်အချိန်မှစ၍ နာဆာသည် ၎င်း၏လုပ်ငန်းများကို အများပြည်သူသိရှိအောင် ဖြန့်ဝေရန် တာဝန်ပေးအပ်ခြင်းခံခဲ့ရသည်။ စာရိုက်ထုတ်ပြန်ချက်များ၊ ဓာတ်ပုံများနှင့် ရုပ်ရှင်များမှသည် အေဂျင်စီသည် ဆိုရှယ်မီဒီယာနှင့် အခြားအွန်လိုင်းဆက်သွယ်ရေးများသို့ ထိရောက်စွာ ကူးပြောင်းလာခဲ့သည်။ ဒစ်ဂျစ်တယ်ပလက်ဖောင်းများတစ်လျှောက် နာဆာ၏ ကျယ်ပြန့်သောရောက်ရှိမှုသည် ယခုအခါ အသိအမှတ်ပြုခံခဲ့ရပြီး ၃၀ ကြိမ်မြောက် Webby ဆုများအတွက် ဆန်ခါတင် ၇ ခု ရရှိခဲ့သည်။",
+    "tags": [
+      "NASA",
+      "Webby Awards",
+      "Digital Communication",
+      "Social Media",
+      "Space Agency",
+      "Awards"
+    ],
+    "category": "space-news",
+    "link": "https://www.nasa.gov/general/nasa-receives-7-nominations-for-the-30th-annual-webby-awards/",
+    "image": "/images/news-2026-04-15-bff712e7.png",
+    "publishedAt": "2026-04-14T20:26:17.000Z",
+    "createdAt": "2026-04-15T09:11:40.655Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-15-e733c143",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "2025-2026 Dream with Us Design Challenge Winners",
+    "title": "2025-2026 Dream with Us ဒီဇိုင်းစိန်ခေါ်ပွဲ အောင်နိုင်သူများ",
+    "summary": "2025-2026 Dream with Us ဒီဇိုင်းစိန်ခေါ်ပွဲ၏ အောင်နိုင်သူများကို ကြေညာခဲ့ပါသည်။ ဤနှစ်၏ ဆုရရှိသော ပရောဂျက်များကို ဝမ်းမြောက်စွာဖြင့် မျှဝေလိုက်ပါသည်။ အလယ်တန်းအဆင့်တွင် ပထမဆုကို Scout Farm (Varenya D., Aashritha P., Alvitha P.) က ရရှိခဲ့ပြီး၊ ဒုတိယဆုကို AgriTech (Charlotte W., Richard F.) က ရရှိခဲ့ကာ၊ တတိယဆုကို AgriDrone (Hasini B., Kanishka A) က ဆွတ်ခူးခဲ့ပါသည်။",
+    "tags": [
+      "Design Challenge",
+      "Winners",
+      "Student Competition",
+      "Education",
+      "Innovation",
+      "Space Science Projects"
+    ],
+    "category": "student-competition-results",
+    "link": "https://www.nasa.gov/aeronautics/aeronautics-stem/2025-2026-dwu-winners/",
+    "image": "/images/news-2026-04-15-e733c143.png",
+    "publishedAt": "2026-04-14T18:44:49.000Z",
+    "createdAt": "2026-04-15T09:11:51.079Z",
+    "reviewed": false
   }
 ]
