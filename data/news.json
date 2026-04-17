@@ -1501,5 +1501,115 @@
     "publishedAt": "2026-04-15T15:59:44.000Z",
     "createdAt": "2026-04-16T09:12:06.474Z",
     "reviewed": false
+  },
+  {
+    "id": "news-2026-04-17-0668bd8f",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "Spring Rains Saturate Michigan",
+    "title": "နွေဦးမိုးများ မီချီဂန်ပြည်နယ်ကို ရေလွှမ်းမိုးခြင်း",
+    "summary": "ပုံမှန်ထက် ပိုများသော မိုးရေချိန်ကြောင့် မီချီဂန်ပြည်နယ်ရှိ မြစ်များ ရေကြီးရေလျှံခဲ့သည်။ ယင်းကြောင့် ပြည်နယ်အနှံ့ အခြေခံအဆောက်အအုံများ ပျက်စီးခဲ့ရသည်။",
+    "tags": [
+      "Michigan",
+      "Flooding",
+      "Rain",
+      "Infrastructure Damage",
+      "Precipitation",
+      "Weather"
+    ],
+    "category": "natural-disasters",
+    "link": "https://science.nasa.gov/earth/earth-observatory/spring-rains-saturate-michigan/",
+    "image": "/images/news-2026-04-17-0668bd8f.png",
+    "publishedAt": "2026-04-17T04:01:00.000Z",
+    "createdAt": "2026-04-17T09:08:55.947Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-17-aa3785a5",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "At the Edge of Light",
+    "title": "အလင်းစွန်းနားမှာ",
+    "summary": "ဧပြီလ ၆ ရက်၊ ၂၀၂၆ ခုနှစ်တွင် ရိုက်ကူးခဲ့သော ဤဓာတ်ပုံတွင် လ၏အဝေးတစ်ဖက်ခြမ်း၊ လ၏နေ့နှင့်ညကို ပိုင်းခြားထားသည့် နယ်နိမိတ်တစ်လျှောက်ကို တွေ့မြင်ရသည်။ နေရောင်ခြည် အစွန်းရောက် ထောင့်နိမ့်များက လမျက်နှာပြင်ပေါ်တွင် အရိပ်ရှည်ကြီးများကို ဖြစ်ပေါ်စေပြီး၊ လ၏ အပေါ်ညာဘက်ခြမ်းတွင် Orientale Basin ၏ အစိတ်အပိုင်းတစ်ခုကို သိမ်မွေ့စွာ ဖော်ပြနေသည်။",
+    "tags": [
+      "Moon",
+      "Lunar Far Side",
+      "Terminator",
+      "Orientale Basin",
+      "Space Photography",
+      "Lunar Surface"
+    ],
+    "category": "lunar-photography",
+    "link": "https://www.nasa.gov/image-article/at-the-edge-of-light/",
+    "image": "/images/news-2026-04-17-aa3785a5.png",
+    "publishedAt": "2026-04-16T14:38:02.000Z",
+    "createdAt": "2026-04-17T09:10:15.170Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-17-cae81b69",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "‘Interstellar Glaciers’: NASA’s SPHEREx Maps Vast Galactic Ice Regions",
+    "title": "ကြယ်တာရာကြား ရေခဲပြင်ကြီးများ- နာဆာ၏ SPHEREx က နဂါးငွေ့တန်းရှိ ကျယ်ပြန့်သော ရေခဲဒေသများကို မြေပုံထုတ်",
+    "summary": "နာဆာ၏ SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) မစ်ရှင်သည် ကြယ်တာရာကြားရှိ ရေခဲများကို ယခင်က မတွေ့ဖူးသေးသည့် အတိုင်းအတာဖြင့် မြေပုံရေးဆွဲခဲ့သည်။ အလင်းနှစ် ၆၀၀ ကျော် ကျယ်ဝန်းသော နဂါးငွေ့တန်း ဂလက်ဆီအတွင်းရှိ ဧရိယာများကို ဖုံးအုပ်ကာ ၎င်းရေခဲများကို ဓာတ်ငွေ့နှင့် ဖုန်မှုန့်များဖြင့် ဖွဲ့စည်းထားသည့် ဧရာမ မော်လီကျူးတိမ်တိုက်ကြီးများအတွင်းတွင် တွေ့ရှိခဲ့ခြင်း ဖြစ်သည်။ ဤရှာဖွေတွေ့ရှိမှုသည် စကြဝဠာ၏ သမိုင်းကြောင်းနှင့် ရေခဲများ၏ အခန်းကဏ္ဍကို နားလည်ရန် အရေးပါသော အချက်အလက်သစ်များ ပေးစွမ်းသည်။",
+    "tags": [
+      "NASA",
+      "SPHEREx",
+      "Interstellar Ice",
+      "Milky Way",
+      "Astronomy",
+      "Space Exploration",
+      "Molecular Clouds"
+    ],
+    "category": "space-news",
+    "link": "https://www.nasa.gov/missions/spherex/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions/",
+    "image": "/images/news-2026-04-17-cae81b69.png",
+    "publishedAt": "2026-04-15T15:02:15.000Z",
+    "createdAt": "2026-04-17T09:11:12.732Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-17-29bb633f",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " Landing astronauts on the moon 'is absolutely doable, and it's doable soon,' NASA's Artemis 2 commander says ",
+    "title": "လကမ္ဘာပေါ်သို့ အာကာသယာဉ်မှူးများ ဆင်းသက်ခြင်းသည် 'လုံးဝဖြစ်နိုင်ပြီး မကြာမီဖြစ်နိုင်သည်' ဟု NASA ၏ Artemis 2 တပ်မှူးက ပြောကြား",
+    "summary": "Artemis 2 အာကာသယာဉ်မှူးများသည် ၎င်းတို့၏ လကမ္ဘာခရီးစဉ်အတွင်း Orion ကက်ပ်ဆူးလ်ကို ပိုမိုနားလည်လာကြောင်း ပြောကြားခဲ့သည်။ ၎င်းတို့ရရှိခဲ့သော အသိပညာများသည် နောင်လာမည့် Artemis ခရီးစဉ်များအတွက် ကောင်းမွန်သော အလားအလာများကို ပြသနေပါသည်။",
+    "tags": [
+      "NASA",
+      "Artemis",
+      "Moon mission",
+      "Astronauts",
+      "Orion capsule",
+      "Space exploration"
+    ],
+    "category": "space-news",
+    "link": "https://www.space.com/space-exploration/artemis/landing-astronauts-on-the-moon-is-absolutely-doable-and-its-doable-soon-nasas-artemis-2-commander-says",
+    "image": "/images/news-2026-04-17-29bb633f.png",
+    "publishedAt": "2026-04-16T21:53:36.000Z",
+    "createdAt": "2026-04-17T09:11:21.473Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-17-c9cf2051",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " 'That was a wonderful toilet': Artemis 2 commander defends mission's lunar loo ",
+    "title": "''ဒါက အံ့ဩစရာကောင်းတဲ့ အိမ်သာပါပဲ'' - Artemis 2 အာကာသယာဉ်မှူးက မစ်ရှင်ရဲ့ လပေါ်အိမ်သာကို ကာကွယ်ပြောဆို",
+    "summary": "Artemis 2 မစ်ရှင်ရဲ့ ကွပ်ကဲရေးမှူး Reid Wiseman က ၎င်းတို့ရဲ့ ထူးခြားတဲ့ အာကာသအိမ်သာဟာ ပြီးခဲ့တဲ့ နှစ်ပတ်အတွင်း ရရှိခဲ့တဲ့ မကောင်းသတင်းတွေနဲ့ မထိုက်တန်ဘူးလို့ ပြောကြားခဲ့ပါတယ်။ သူက အဲဒီအိမ်သာကို ''အံ့သြဖွယ်ကောင်းတဲ့ အိမ်သာ'' အဖြစ် ချီးကျူးပြောဆိုခဲ့ပါတယ်။",
+    "tags": [
+      "Artemis 2",
+      "Space Toilet",
+      "Lunar Mission",
+      "Reid Wiseman",
+      "NASA"
+    ],
+    "category": "space-exploration",
+    "link": "https://www.space.com/space-exploration/artemis/that-was-a-wonderful-toilet-artemis-2-commander-defends-missions-lunar-loo",
+    "image": "/images/news-2026-04-17-c9cf2051.png",
+    "publishedAt": "2026-04-16T20:42:20.000Z",
+    "createdAt": "2026-04-17T09:11:30.518Z",
+    "reviewed": false
   }
 ]
