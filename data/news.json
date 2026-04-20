@@ -1837,5 +1837,116 @@
     "publishedAt": "2026-04-18T14:00:00.000Z",
     "createdAt": "2026-04-19T08:44:58.042Z",
     "reviewed": false
+  },
+  {
+    "id": "news-2026-04-20-ff2267d0",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " Watch SpaceX launch advanced GPS satellite for US Space Force early on April 21 ",
+    "title": "ဧပြီ ၂၁ ရက်နေ့အစောပိုင်းတွင် SpaceX က အမေရိကန်အာကာသတပ်ဖွဲ့အတွက် အဆင့်မြင့် GPS ဂြိုလ်တုကို လွှတ်တင်မည်",
+    "summary": "SpaceX သည် အမေရိကန် အာကာသတပ်ဖွဲ့အတွက် GPS ဂြိုလ်တုအသစ်တစ်လုံးကို ဧပြီလ ၂၁ ရက် (အင်္ဂါနေ့) နံနက်အစောပိုင်းတွင် လွှတ်တင်မည်ဖြစ်သည်။ ဤအဆင့်မြင့် ဂြိုလ်တုလွှတ်တင်မှုကို တိုက်ရိုက်ကြည့်ရှုနိုင်မည်ဖြစ်သည်။",
+    "tags": [
+      "SpaceX",
+      "GPS Satellite",
+      "US Space Force",
+      "Rocket Launch",
+      "Space News"
+    ],
+    "category": "space-launch",
+    "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-gps-iii-sv-10-satellite-us-space-force",
+    "image": "/images/news-2026-04-20-ff2267d0.png",
+    "publishedAt": "2026-04-19T16:00:00.000Z",
+    "createdAt": "2026-04-20T09:49:51.495Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-20-d1ae37c9",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " Giant BlueBird 7 mobile phone satellite will be deorbited after faulty Blue Origin launch ",
+    "title": "Blue Origin ၏ ချွတ်ယွင်းမှုရှိသော လွှတ်တင်မှုအပြီးတွင် ဧရာမ BlueBird 7 မိုဘိုင်းလ်ဖုန်းဂြိုဟ်တုကို ပတ်လမ်းမှဖယ်ရှားမည်",
+    "summary": "Jeff Bezos တည်ထောင်ထားသော အာကာသလွှတ်တင်ရေးကုမ္ပဏီ Blue Origin သည် ၎င်း၏ ပထမဆုံး ပြန်လည်အသုံးပြုနိုင်သော ပတ်လမ်းဝင်ဒုံးပျံကို အောင်မြင်စွာ ပြန်လည်ဆယ်ယူနိုင်ခဲ့သည်။ သို့သော်လည်း ၎င်းလွှတ်တင်လိုက်သည့် အာကာသယာဉ်အစိတ်အပိုင်းသည် မှားယွင်းသောနေရာသို့ ရောက်ရှိသွားခဲ့သည်။",
+    "tags": [
+      "Blue Origin",
+      "BlueBird 7",
+      "Satellite",
+      "Deorbit",
+      "Space Launch",
+      "Faulty Launch",
+      "Rocket",
+      "Payload",
+      "Jeff Bezos"
+    ],
+    "category": "space-missions",
+    "link": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-just-launched-the-giant-bluebird-7-mobile-phone-satellite-into-space-but-its-in-the-wrong-orbit",
+    "image": "/images/news-2026-04-20-d1ae37c9.png",
+    "publishedAt": "2026-04-19T14:59:58.000Z",
+    "createdAt": "2026-04-20T09:50:43.786Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-20-dcd90497",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " The Lyrid meteor shower returns with ideal viewing conditions! Here's what to look out for this week ",
+    "title": "Lyrid ဥက္ကာပျံများ ပြန်လည်ရောက်ရှိလာပြီး ကြည့်ရှုရန် အကောင်းဆုံး အခြေအနေများ ဖန်တီးပေးနေပြီဖြစ်သည်။ ဒီတစ်ပတ် ဘာတွေ စောင့်ကြည့်ရမလဲ။",
+    "summary": "လပေါင်းများစွာ ငြိမ်သက်နေခဲ့သော ကောင်းကင်ယံအပြီးတွင် Lyrid ဥက္ကာပျံများသည် လျင်မြန်တောက်ပသော ဥက္ကာပျံများနှင့်အတူ ပြန်လည်ရောက်ရှိလာခဲ့သည်။ ၎င်းတို့ကို နံနက်အစောပိုင်း၊ လမရှိဘဲ မှောင်မိုက်သော ကောင်းကင်အခြေအနေများအောက်တွင် အကောင်းဆုံး ကြည့်ရှုနိုင်မည်ဖြစ်သည်။",
+    "tags": [
+      "Lyrid",
+      "meteor shower",
+      "astronomy",
+      "night sky",
+      "space",
+      "celestial event"
+    ],
+    "category": "celestial-events",
+    "link": "https://www.space.com/stargazing/meteor-showers/the-lyrid-meteor-shower-returns-with-ideal-viewing-conditions-heres-what-to-look-out-for-this-week",
+    "image": "/images/news-2026-04-20-dcd90497.png",
+    "publishedAt": "2026-04-19T13:00:00.000Z",
+    "createdAt": "2026-04-20T09:51:42.954Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-20-61bc04d4",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " Telescope livestream: Watch the moon pass in front of the Pleiades on April 19 ",
+    "title": "ဧပြီလ ၁၉ ရက်နေ့တွင် လနှင့် ပလေယာဒီးစ် ကြယ်အစုအဝေး ဖြတ်သန်းခြင်းကို တယ်လီစကုပ် တိုက်ရိုက်ထုတ်လွှင့်မှုမှ ကြည့်ရှုနိုင်မည်",
+    "summary": "ဧပြီလ ၁၉ ရက်နေ့၌ လခြမ်းကွေးသည် ပြာလဲ့ဖြူဖွေးသော ပလေယာဒီးစ် ကြယ်အစုအဝေးကို ဖြတ်သန်းသွားမည်ဖြစ်သည်။ ဤထူးခြားသည့် နက္ခတ္တဖြစ်စဉ်ကို အိမ်မှနေ၍ သက်သောင့်သက်သာ တယ်လီစကုပ် တိုက်ရိုက်ထုတ်လွှင့်မှုမှတစ်ဆင့် ကြည့်ရှုခံစားနိုင်ပါသည်။",
+    "tags": [
+      "Moon",
+      "Pleiades",
+      "Telescope",
+      "Livestream",
+      "Astronomy",
+      "Celestial Event"
+    ],
+    "category": "astronomy-news",
+    "link": "https://www.space.com/stargazing/telescope-livestream-watch-the-moon-pass-in-front-of-the-pleiades-on-april-19",
+    "image": "/images/news-2026-04-20-61bc04d4.png",
+    "publishedAt": "2026-04-19T12:00:00.000Z",
+    "createdAt": "2026-04-20T09:51:49.946Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-20-941abfea",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " Synthetic universe allows you to 'see and hear' galaxies evolving from the dawn of time (video) ",
+    "title": "ဒြပ်မဲ့စကြဝဠာဖြင့် အချိန်အစမှ ဂလက်ဆီများ ပြောင်းလဲပုံကို 'မြင်နိုင်၊ ကြားနိုင်' (ဗီဒီယို)",
+    "summary": "သိပ္ပံပညာရှင်များသည် ပထမဆုံးသော ဂလက်ဆီများ မည်သို့ပြောင်းလဲတိုးတက်လာသည်ကို လေ့လာရန် ဒြပ်မဲ့စကြဝဠာကို အသုံးပြုခဲ့ကြသည်။ ၎င်းဒြပ်မဲ့စကြဝဠာသည် အစစ်အမှန်နှင့် အလွန်နီးစပ်လွန်းသောကြောင့် နက္ခတ္တဗေဒပညာရှင်အချို့ကိုပင် လှည့်စားနိုင်ခဲ့သည်။",
+    "tags": [
+      "Synthetic Universe",
+      "Galaxies",
+      "Cosmology",
+      "Astronomy",
+      "Simulation"
+    ],
+    "category": "astronomy",
+    "link": "https://www.space.com/astronomy/galaxies/synthetic-universe-allows-you-to-see-and-hear-galaxies-evolving-from-the-dawn-of-time-video",
+    "image": "/images/news-2026-04-20-941abfea.png",
+    "publishedAt": "2026-04-19T10:00:00.000Z",
+    "createdAt": "2026-04-20T09:51:59.569Z",
+    "reviewed": false
   }
 ]
