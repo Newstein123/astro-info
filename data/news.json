@@ -1948,5 +1948,117 @@
     "publishedAt": "2026-04-19T10:00:00.000Z",
     "createdAt": "2026-04-20T09:51:59.569Z",
     "reviewed": false
+  },
+  {
+    "id": "news-2026-04-21-c0fcce16",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "A School of Mud Volcano Islands in Azerbaijan",
+    "title": "အာဇာဘိုင်ဂျန်နိုင်ငံရှိ ရွှံ့မီးတောင်ကျွန်းစုများ",
+    "summary": "Absheron ကျွန်းဆွယ်တစ်လျှောက်ရှိ ဖားလောင်းပုံသဏ္ဌာန်ကျွန်းများသည် ပေါက်ကွဲတတ်သော ရွှံ့မီးတောင်များမှ မွေးဖွားလာခြင်းဖြစ်သည်။ ၎င်းတို့ကို ရေတိုက်စားမှုများကြောင့် ပုံသဏ္ဌာန်ပြောင်းလဲခဲ့သည်။",
+    "tags": [
+      "Mud Volcano",
+      "Azerbaijan",
+      "Islands",
+      "Geology",
+      "Absheron Peninsula"
+    ],
+    "category": "geology",
+    "link": "https://science.nasa.gov/earth/earth-observatory/a-school-of-mud-volcano-islands-in-azerbaijan/",
+    "image": "/images/news-2026-04-21-c0fcce16.png",
+    "publishedAt": "2026-04-21T04:00:00.000Z",
+    "createdAt": "2026-04-21T09:18:10.615Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-21-5176253b",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "NASA on Track for Future Missions with Initial Artemis II Assessments",
+    "title": "နာဆာသည် အာတဲမစ် ၂ ပဏာမ ဆန်းစစ်ချက်များဖြင့် အနာဂတ်မစ်ရှင်များအတွက် လမ်းကြောင်းမှန်ပေါ် ရောက်ရှိနေပြီဖြစ်သည်။",
+    "summary": "နာဆာ၏ အာတဲမစ် ၂ မစ်ရှင် အောင်မြင်စွာ ရေပြင်ပေါ် ဆင်းသက်ပြီးနောက် အင်ဂျင်နီယာများသည် အိုရီယွန် အာကာသယာဉ်၊ SLS ဒုံးပျံနှင့် ကနေဒီ အာကာသစင်တာရှိ လွှတ်တင်ရေးစင်မြင့် စနစ်များ၏ စွမ်းဆောင်ရည်ကို အကဲဖြတ်ရန် အချက်အလက်များကို အသေးစိတ် ခွဲခြမ်းစိတ်ဖြာလျက်ရှိသည်။ ဤပဏာမ ဆန်းစစ်ချက်များသည် နာဆာ၏ အနာဂတ်မစ်ရှင်များအတွက် အရေးပါသော အခြေခံအုတ်မြစ်တစ်ခု ဖြစ်လာမည်ဖြစ်သည်။",
+    "tags": [
+      "NASA",
+      "Artemis II",
+      "Orion",
+      "SLS",
+      "Space Launch System",
+      "Mission Assessment",
+      "Data Analysis",
+      "Space Exploration"
+    ],
+    "category": "space-exploration",
+    "link": "https://www.nasa.gov/missions/nasa-on-track-for-future-missions-with-initial-artemis-ii-assessments/",
+    "image": "/images/news-2026-04-21-5176253b.png",
+    "publishedAt": "2026-04-20T22:10:38.000Z",
+    "createdAt": "2026-04-21T09:18:19.567Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-21-a001f438",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "NASA Rolls Out Artemis III Moon Rocket Core Stage",
+    "title": "နာဆာက Artemis III လကမ္ဘာသွားဒုံးပျံ၏ အဓိကအဆင့်ကို ထုတ်ဖော်ပြသ",
+    "summary": "နာဆာ၏ Artemis II မစ်ရှင် လကမ္ဘာပတ် ပျံသန်းမှု အောင်မြင်ပြီးနောက်၊ နာဆာသည် ၂၀၂၇ ခုနှစ်တွင် လူလိုက်ပါမည့် Artemis III မစ်ရှင်ကို လွှတ်တင်မည့် SLS (Space Launch System) ဒုံးပျံ၏ အကြီးဆုံးအပိုင်းဖြစ်သော အဓိကအဆင့်ကို ထုတ်ဖော်ပြသခဲ့သည်။ ဤအဆင့်ကို New Orleans ရှိ Michoud Assembly Facility မှ ထွက်ခွာခဲ့သည်။",
+    "tags": [
+      "NASA",
+      "Artemis III",
+      "Moon Mission",
+      "SLS",
+      "Space Launch System",
+      "Core Stage",
+      "Rocket"
+    ],
+    "category": "space-exploration",
+    "link": "https://www.nasa.gov/news-release/nasa-rolls-out-artemis-iii-moon-rocket-core-stage/",
+    "image": "/images/news-2026-04-21-a001f438.png",
+    "publishedAt": "2026-04-20T20:31:57.000Z",
+    "createdAt": "2026-04-21T09:18:30.183Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-21-d592b4ef",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "NASA Invites Media to SpaceX’s 34th Resupply Launch to Space Station",
+    "title": "NASA က SpaceX ၏ အာကာသစခန်းသို့ ၃၄ ကြိမ်မြောက် ထောက်ပံ့ရေးလွှတ်တင်ပွဲသို့ မီဒီယာများ ဖိတ်ကြား",
+    "summary": "အပြည်ပြည်ဆိုင်ရာ အာကာသစခန်းသို့ NASA ၏ သိပ္ပံစုံစမ်းစစ်ဆေးမှုများ၊ ထောက်ပံ့ရေးပစ္စည်းများနှင့် စက်ပစ္စည်းများ ပို့ဆောင်ရန် အမေရိကန်ပြည်ထောင်စုမှ နောက်ဆုံးလွှတ်တင်မည့် အစီအစဉ်အတွက် မီဒီယာအသိအမှတ်ပြုခြင်းကို ဖွင့်လှစ်ထားသည်။ ၎င်းသည် NASA အတွက် SpaceX ၏ ၃၄ ကြိမ်မြောက် စီးပွားဖြစ်ထောက်ပံ့ရေးဝန်ဆောင်မှုမစ်ရှင်ဖြစ်ပြီး ကုမ္ပဏီ၏ Falcon 9 ဒုံးပျံဖြင့် ပစ်လွှတ်မည်ဖြစ်သည်။",
+    "tags": [
+      "NASA",
+      "SpaceX",
+      "ISS",
+      "Resupply",
+      "Launch",
+      "Falcon 9",
+      "Media"
+    ],
+    "category": "space-mission",
+    "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-34th-resupply-launch-to-space-station/",
+    "image": "/images/news-2026-04-21-d592b4ef.png",
+    "publishedAt": "2026-04-20T18:02:28.000Z",
+    "createdAt": "2026-04-21T09:19:20.711Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-21-9be72c2b",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "NASA Welcomes Latvia as Newest Artemis Accords Signatory  ",
+    "title": "နာဆာက လတ်ဗီးယားကို Artemis သဘောတူညီချက်များတွင် အသစ်ဆုံးလက်မှတ်ရေးထိုးသူအဖြစ် ကြိုဆို",
+    "summary": "လတ်ဗီးယားသမ္မတနိုင်ငံသည် ဝါရှင်တန်ရှိ နာဆာဌာနချုပ်တွင် ကျင်းပသော အခမ်းအနား၌ Artemis သဘောတူညီချက်များကို လက်မှတ်ရေးထိုးခဲ့ပြီး လူသားအားလုံးအတွက် တာဝန်ယူမှုရှိသော အာကာသစူးစမ်းလေ့လာရေးကို ကတိပြုသော ၆၂ နိုင်ငံမြောက် နိုင်ငံဖြစ်လာခဲ့သည်။ နာဆာအုပ်ချုပ်ရေးမှူး Jared Isaacman က လတ်ဗီးယားအား ကြိုဆိုကြောင်း ပြောကြားခဲ့ပြီး လက်မှတ်ရေးထိုးသူအသစ်တိုင်းသည် ပွင့်လင်းမြင်သာပြီး ငြိမ်းချမ်းသော အာကာသစူးစမ်းလေ့လာရေးအတွက် ကတိကဝတ်ပြုထားသော မဟာမိတ်အဖွဲ့ကို ပိုမိုခိုင်မာစေသည်ဟု ဆိုသည်။",
+    "tags": [
+      "NASA",
+      "Latvia",
+      "Artemis Accords",
+      "Space Exploration",
+      "International Cooperation"
+    ],
+    "category": "space-policy",
+    "link": "https://www.nasa.gov/news-release/nasa-welcomes-latvia-as-newest-artemis-accords-signatory/",
+    "image": "/images/news-2026-04-21-9be72c2b.png",
+    "publishedAt": "2026-04-20T16:01:07.000Z",
+    "createdAt": "2026-04-21T09:19:30.695Z",
+    "reviewed": false
   }
 ]
