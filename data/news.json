@@ -2060,5 +2060,121 @@
     "publishedAt": "2026-04-20T16:01:07.000Z",
     "createdAt": "2026-04-21T09:19:30.695Z",
     "reviewed": false
+  },
+  {
+    "id": "news-2026-04-22-fa5bdc2d",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "Artemis II Mission Milestones: An Image and Video Recap",
+    "title": "Artemis II မစ်ရှင် အောင်မြင်မှုမှတ်တိုင်များ: ဓာတ်ပုံနှင့် ဗီဒီယို ပြန်လည်သုံးသပ်ချက်",
+    "summary": "၂၀၂၆ ခုနှစ်၊ ဧပြီလ ၁ ရက်နေ့တွင် Artemis II မစ်ရှင်သည် လကမ္ဘာပတ်လည်သို့ ၁၀ ရက်နီးပါးကြာ ခရီးစဉ်အတွက် လွှတ်တင်ခဲ့ပြီး NASA ၏ Orion အာကာသယာဉ်၏ ပထမဆုံးသော လူလိုက်ပါသည့် ပျံသန်းမှုဖြစ်ခဲ့သည်။ NASA မှ အာကာသယာဉ်မှူး Reid Wiseman၊ Victor Glover၊ Christina Koch တို့နှင့် CSA မှ Jeremy Hansen တို့သည် ဧပြီလ ၁၀ ရက်နေ့တွင် ဆန်ဒီယေဂို ကမ်းရိုးတန်းရှိ ပစိဖိတ်သမုဒ္ဒရာထဲသို့ အောင်မြင်စွာ ဆင်းသက်ခဲ့ကြသည်။",
+    "tags": [
+      "Artemis II",
+      "NASA",
+      "Orion",
+      "Moon",
+      "Crewed Mission",
+      "Spaceflight",
+      "Astronauts",
+      "CSA",
+      "Splashdown"
+    ],
+    "category": "space-exploration",
+    "link": "https://www.nasa.gov/centers-and-facilities/johnson/artemis-ii-mission-milestones-an-image-and-video-recap/",
+    "image": "/images/news-2026-04-22-fa5bdc2d.png",
+    "publishedAt": "2026-04-22T01:55:09.000Z",
+    "createdAt": "2026-04-22T09:12:24.417Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-22-1ed34db2",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "NASA Invites Media to Jordan Artemis Accords Signing Ceremony",
+    "title": "နာဆာမှ ဂျော်ဒန်နိုင်ငံ အာတဲမစ်သဘောတူညီချက် လက်မှတ်ရေးထိုးပွဲသို့ မီဒီယာများကို ဖိတ်ကြား",
+    "summary": "ဂျော်ဒန်နိုင်ငံသည် အာတဲမစ်သဘောတူညီချက်များကို ဧပြီလ ၂၃ ရက် ကြာသပတေးနေ့၊ အရှေ့ပိုင်းစံတော်ချိန် နံနက် ၉:၃၀ နာရီတွင် ဝါရှင်တန်ရှိ နာဆာဌာနချုပ်၌ ကျင်းပမည့် အခမ်းအနား၌ လက်မှတ်ရေးထိုးမည်ဖြစ်သည်။ နာဆာအုပ်ချုပ်ရေးမှူး ဂျာရက် အိုက်ဇက်မန်းသည် ဂျော်ဒန်နိုင်ငံ သံအမတ် ဒိုင်နာ ကာဝါနှင့် အမေရိကန်နိုင်ငံခြားရေးဝန်ကြီးဌာနမှ တာဝန်ရှိသူများကို လက်ခံတွေ့ဆုံမည်ဖြစ်သည်။",
+    "tags": [
+      "NASA",
+      "Jordan",
+      "Artemis Accords",
+      "Signing Ceremony",
+      "Space Policy",
+      "International Cooperation"
+    ],
+    "category": "space-policy",
+    "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-jordan-artemis-accords-signing-ceremony/",
+    "image": "/images/news-2026-04-22-1ed34db2.png",
+    "publishedAt": "2026-04-21T21:30:25.000Z",
+    "createdAt": "2026-04-22T09:14:04.788Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-22-2dcb6e25",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "New NASA Views of Earth, From (S)PACE",
+    "title": "NASA မှ ကမ္ဘာမြေ၏ မြင်ကွင်းသစ်များ (S)PACE မှ ရရှိ",
+    "summary": "NASA တွင် ဂြိုဟ်ပတ်လမ်းကြောင်းပေါ်၌ ဂြိုဟ်တုများစွာရှိသည်။ ၎င်းတို့သည် ကမ္ဘာမြေ၏ သမုဒ္ဒရာ၊ လေထုနှင့် မြေမျက်နှာပြင်များ၏ ထူးခြားသော မြင်ကွင်းများကို လေ့လာရန်အတွက် အချက်အလက်များကို နာရီပေါင်းများစွာ စုဆောင်းလျက်ရှိသည်။",
+    "tags": [
+      "NASA",
+      "Earth",
+      "Satellites",
+      "Space",
+      "Observation"
+    ],
+    "category": "earth-observation",
+    "link": "https://science.nasa.gov/earth/new-nasa-views-of-earth-from-space/",
+    "image": "/images/news-2026-04-22-2dcb6e25.png",
+    "publishedAt": "2026-04-21T20:54:22.000Z",
+    "createdAt": "2026-04-22T09:14:14.665Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-22-f98202a1",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "NASA Invests in Small Businesses Innovating for Space and Earth",
+    "title": "နာဆာက အာကာသနှင့် ကမ္ဘာမြေအတွက် ဆန်းသစ်တီထွင်လျက်ရှိသော လုပ်ငန်းငယ်များတွင် ရင်းနှီးမြှုပ်နှံ",
+    "summary": "နာဆာသည် အမေရိကန်လုပ်ငန်းများကို ကြာရှည်စွာ ပံ့ပိုးမှုအဖြစ် ၎င်း၏ Small Business Innovation Research (SBIR) နှင့် Small Business Technology Transfer (STTR) အစီအစဉ်များမှတစ်ဆင့် ဆန်းသစ်တီထွင်သော နည်းပညာများ ဖော်ဆောင်ရန် ကုမ္ပဏီ ၃၀ ကျော်ကို ရွေးချယ်ကြောင်း ကြေညာခဲ့သည်။ ဤရန်ပုံငွေများဖြင့် နာဆာသည် အေဂျင်စီအတွက် အကျိုးရှိစေပြီး အာကာသစီးပွားရေးကို အားကောင်းစေမည့် နည်းပညာဖြေရှင်းချက်များအတွက် အစပြုရန်ပုံငွေ ဒေါ်လာ ၁၆.၃ သန်းခန့် ရင်းနှီးမြှုပ်နှံလျက်ရှိသည်။",
+    "tags": [
+      "NASA",
+      "SBIR",
+      "STTR",
+      "Small Businesses",
+      "Innovation",
+      "Space Technology",
+      "Funding"
+    ],
+    "category": "space-industry",
+    "link": "https://www.nasa.gov/directorates/stmd/nasa-invests-in-small-businesses-innovating-for-space-and-earth/",
+    "image": "/images/news-2026-04-22-f98202a1.png",
+    "publishedAt": "2026-04-21T19:23:06.000Z",
+    "createdAt": "2026-04-22T09:14:45.990Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-22-89bc27bc",
+    "source": "NASA Breaking News",
+    "sourceUrl": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "originalTitle": "NASA at SXSW: Johnson Director Vanessa Wyche on Why Artemis Changes Everything",
+    "title": "နာဆာ (NASA) နှင့် SXSW: အာတဲမစ် (Artemis) အဘယ်ကြောင့် အရာအားလုံးကို ပြောင်းလဲစေသနည်းဟု ဂျွန်ဆင် (Johnson) ဒါရိုက်တာ ဗနက်ဆာ ဝိုက်ချ် ပြောကြား",
+    "summary": "၂၀၂၆ ခုနှစ် မတ်လ ၂၁ ရက်နေ့တွင် နာဆာ (NASA) ၏ ဂျွန်ဆင် အာကာသစင်တာ ဒါရိုက်တာ ဗနက်ဆာ ဝိုက်ချ် (Vanessa Wyche) သည် တက္ကဆက်ပြည်နယ် အော်စတင်မြို့ရှိ South by Southwest ပွဲ၌ NASA ၏ လူသားအာကာသပျံသန်းမှု အစီအစဉ်သစ်များအကြောင်း ပြောကြားခဲ့သည်။ ၎င်းအစီအစဉ်များတွင် ကမ္ဘာပတ်လမ်းကြောင်းနိမ့်မှ လသို့၊ နောက်ဆုံးတွင် အင်္ဂါဂြိုဟ်သို့ သွားရောက်ခြင်းများ ပါဝင်ပြီး၊ အာတဲမစ် (Artemis) အစီအစဉ်၏ အရေးပါပုံကို အလေးပေး ပြောဆိုခဲ့သည်။",
+    "tags": [
+      "NASA",
+      "SXSW",
+      "Vanessa Wyche",
+      "Johnson Space Center",
+      "Artemis",
+      "Human Spaceflight",
+      "Moon",
+      "Mars",
+      "Space Exploration"
+    ],
+    "category": "space-exploration",
+    "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-sxsw-johnson-director-vanessa-wyche-on-why-artemis-changes-everything/",
+    "image": "/images/news-2026-04-22-89bc27bc.png",
+    "publishedAt": "2026-04-21T19:13:36.000Z",
+    "createdAt": "2026-04-22T09:15:18.297Z",
+    "reviewed": false
   }
 ]
