@@ -2523,5 +2523,114 @@
     "publishedAt": "2026-04-23T16:30:00.000Z",
     "createdAt": "2026-04-25T08:43:02.287Z",
     "reviewed": false
+  },
+  {
+    "id": "news-2026-04-26-958ad9f4",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " Best space prison movies ",
+    "title": "အကောင်းဆုံး အာကာသထောင် ရုပ်ရှင်များ",
+    "summary": "ဤဆောင်းပါးသည် အာကာသထောင် ရုပ်ရှင်များ၏ စွဲမက်ဖွယ်ရာ အမျိုးအစားကို ဖော်ပြထားသည်။ ၎င်းရုပ်ရှင်များသည် ကြည့်ရှုသူများကို ၎င်းတို့၏ ထူးခြားသော စကြဝဠာနောက်ခံဇာတ်လမ်းများထဲသို့ ဆွဲခေါ်ကာ \"ကျွန်ုပ်တို့၏နှလုံးသားများကို ပိတ်လှောင်ထားနိုင်သည်\" ဟု အကြံပြုထားသည်။",
+    "tags": [
+      "space",
+      "movies",
+      "prison",
+      "science fiction",
+      "film"
+    ],
+    "category": "film-reviews",
+    "link": "https://www.space.com/entertainment/space-movies-shows/best-space-prison-movies",
+    "image": "/images/news-2026-04-26-958ad9f4.png",
+    "publishedAt": "2026-04-25T15:00:00.000Z",
+    "createdAt": "2026-04-26T08:49:40.890Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-26-d7375b1c",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " Satellite snaps amazing 36th birthday pic of Hubble Space Telescope (photo) ",
+    "title": "ဂြိုဟ်တုမှ ဟာဘယ်အာကာသ တယ်လီစကုပ်၏ ၃၆ နှစ်မြောက် မွေးနေ့အံ့ဖွယ်ဓာတ်ပုံ ရိုက်ကူး",
+    "summary": "ပုဂ္ဂလိကပိုင် WorldView Legion 4 ကမ္ဘာကို လေ့လာစောင့်ကြည့်ရေး ဂြိုဟ်တုသည် ဟာဘယ်အာကာသ တယ်လီစကုပ်၏ အံ့ဖွယ်ဓာတ်ပုံတစ်ပုံကို ရိုက်ကူးခဲ့သည်။ ၎င်းဓာတ်ပုံကို တယ်လီစကုပ်၏ ၃၆ နှစ်မြောက် မွေးနေ့မတိုင်မီ တစ်ရက်အလိုဖြစ်သော ၂၀၂၆ ခုနှစ် ဧပြီလ ၂၃ ရက်နေ့တွင် ရိုက်ကူးခဲ့ခြင်း ဖြစ်သည်။",
+    "tags": [
+      "Hubble Space Telescope",
+      "satellite",
+      "Earth-observing",
+      "WorldView Legion 4",
+      "space photography",
+      "anniversary"
+    ],
+    "category": "space-telescopes",
+    "link": "https://www.space.com/astronomy/hubble-space-telescope/satellite-snaps-amazing-36th-birthday-pic-of-hubble-space-telescope-photo",
+    "image": "/images/news-2026-04-26-d7375b1c.png",
+    "publishedAt": "2026-04-25T14:00:00.000Z",
+    "createdAt": "2026-04-26T08:49:49.902Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-26-4f9c4a47",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " From Apollo to alien worlds: 4 'firsts' you can spot in the night sky tonight ",
+    "title": "အပိုလိုမှ ဂြိုလ်သားကမ္ဘာများသို့- ဒီညကောင်းကင်မှာ မြင်နိုင်တဲ့ ပထမဆုံးအရာ ၄ ခု",
+    "summary": "ညကောင်းကင်ရှိ ပစ်မှတ်များသည် နက္ခတ္တဗေဒ၏ အကြီးကျယ်ဆုံးသော ပထမဆုံးအရာအချို့ကို ဖော်ပြသည်။ ၎င်းတို့တွင် ပထမဆုံး ဓာတ်ပုံရိုက်ခံရသော ကြယ်မှသည် ဂြိုလ်သားကမ္ဘာများ ရှာဖွေတွေ့ရှိမှုအထိ ပါဝင်သည်။",
+    "tags": [
+      "Astronomy",
+      "Night Sky",
+      "Firsts",
+      "Space Exploration",
+      "Exoplanets",
+      "Apollo"
+    ],
+    "category": "astronomy-firsts",
+    "link": "https://www.space.com/stargazing/from-apollo-to-alien-worlds-4-firsts-you-can-spot-in-the-night-sky-tonight",
+    "image": "/images/news-2026-04-26-4f9c4a47.png",
+    "publishedAt": "2026-04-25T13:00:00.000Z",
+    "createdAt": "2026-04-26T08:50:54.572Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-26-20af576b",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " Why do some starburst galaxies mysteriously shut down? New study provides clues ",
+    "title": "ကြယ်ပွင့်ပေါက်ကွဲ ဂလက်ဆီအချို့ ဘာကြောင့် လျှို့ဝှက်ဆန်းကြယ်စွာ ရပ်တန့်သွားရတာလဲ။ လေ့လာမှုအသစ်က သဲလွန်စတွေ ပေး",
+    "summary": "လေ့လာမှုအသစ်တစ်ခုအရ ကြယ်ပွင့်များ ပေါက်ကွဲပြီးနောက် ဖြစ်ပေါ်လာသော ဂလက်ဆီအများစုသည် လောင်စာကုန်သွားခြင်းကြောင့် ကြယ်များဖြစ်ပေါ်ခြင်းကို ရပ်တန့်သွားကြောင်း ဖော်ပြသည်။ သို့သော် ၎င်းသည် အပြည့်အစုံမဟုတ်သေးဘဲ နောက်ထပ်အကြောင်းရင်းများလည်း ရှိနိုင်သေးကြောင်း လေ့လာမှုက သဲလွန်စများ ပေးသည်။",
+    "tags": [
+      "starburst galaxies",
+      "galaxy evolution",
+      "star formation",
+      "astronomy",
+      "space study"
+    ],
+    "category": "galaxy-research",
+    "link": "https://www.space.com/astronomy/stars/why-do-some-starburst-galaxies-mysteriously-shut-down-new-study-provides-clues",
+    "image": "/images/news-2026-04-26-20af576b.png",
+    "publishedAt": "2026-04-25T12:00:00.000Z",
+    "createdAt": "2026-04-26T08:51:19.133Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-04-26-4a0c4c34",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " Russia launches 3 tons of cargo to the International Space Station from Kazakhstan (video) ",
+    "title": "ရုရှားနိုင်ငံက ကာဇက်စတန်မှ အပြည်ပြည်ဆိုင်ရာ အာကာသစခန်းသို့ ကုန်ပစ္စည်း ၃ တန် ပို့ဆောင် (ဗီဒီယို)",
+    "summary": "ရုရှားနိုင်ငံသည် ၎င်း၏ နောက်ဆုံးပေါ် Progress ကုန်တင်သင်္ဘောကို ယနေ့ (ဧပြီလ ၂၅ ရက်) တွင် Baikonur Cosmodrome မှ အပြည်ပြည်ဆိုင်ရာ အာကာသစခန်းသို့ ပစ်လွှတ်ခဲ့သည်။ ဤကုန်တင်သင်္ဘောသည် အာကာသစခန်းသို့ လိုအပ်သော ထောက်ပံ့ရေးပစ္စည်းများကို သယ်ဆောင်သွားမည်ဖြစ်သည်။",
+    "tags": [
+      "Russia",
+      "Progress",
+      "ISS",
+      "Cargo",
+      "Space Launch",
+      "Baikonur Cosmodrome",
+      "Kazakhstan"
+    ],
+    "category": "spaceflight",
+    "link": "https://www.space.com/space-exploration/launches-spacecraft/progress-95-cargo-ship-launch-soyuz-international-space-station",
+    "image": "/images/news-2026-04-26-4a0c4c34.png",
+    "publishedAt": "2026-04-25T10:00:00.000Z",
+    "createdAt": "2026-04-26T08:51:29.641Z",
+    "reviewed": false
   }
 ]
