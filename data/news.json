@@ -2864,5 +2864,115 @@
     "publishedAt": "2026-04-27T15:01:35.000Z",
     "createdAt": "2026-04-28T10:08:13.247Z",
     "reviewed": false
+  },
+  {
+    "id": "news-2026-05-01-06a45b81",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " Russia's new homegrown Soyuz 5 rocket aces debut launch ",
+    "title": "ရုရှား၏ ကိုယ်ပိုင်ထုတ် Soyuz 5 ဒုံးပျံ ပထမဆုံးအကြိမ် အောင်မြင်စွာ ပစ်လွှတ်",
+    "summary": "ရုရှားနိုင်ငံသည် ၎င်း၏ Soyuz 5 အလတ်စား ဒုံးပျံကို ပထမဆုံးအကြိမ်အဖြစ် ကြာသပတေးနေ့ (ဧပြီလ ၃၀ ရက်) တွင် ပစ်လွှတ်ခဲ့ပြီး အရာအားလုံး အောင်မြင်ခဲ့ကြောင်း သိရသည်။ ဤပစ်လွှတ်မှုသည် ရုရှား၏ အာကာသအစီအစဉ်အတွက် အရေးပါသော မှတ်တိုင်တစ်ခုဖြစ်သည်။",
+    "tags": [
+      "Russia",
+      "Soyuz 5",
+      "Rocket Launch",
+      "Space Exploration",
+      "Debut Flight"
+    ],
+    "category": "space-news",
+    "link": "https://www.space.com/space-exploration/launches-spacecraft/russias-new-homegrown-soyuz-5-rocket-aces-debut-launch",
+    "image": "/images/news-2026-05-01-06a45b81.png",
+    "publishedAt": "2026-04-30T22:00:00.000Z",
+    "createdAt": "2026-05-01T09:25:27.211Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-05-01-354844bd",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " Artemis 3 has been pushed to late 2027. Can NASA still land astronauts on the moon in 2028? ",
+    "title": "အာတဲမစ် ၃ မစ်ရှင်ကို ၂၀၂၇ နှောင်းပိုင်းသို့ ရွှေ့ဆိုင်းလိုက်ရာ နာဆာအနေဖြင့် ၂၀၂၈ တွင် လပေါ်သို့ အာကာသယာဉ်မှူးများ ဆင်းသက်နိုင်ဦးမည်လား။",
+    "summary": "အာတဲမစ် ၃ လကမ္ဘာမစ်ရှင်ကို ၂၀၂၇ နှောင်းပိုင်းသို့ ရွှေ့ဆိုင်းလိုက်ကြောင်း နာဆာက ကြေညာခဲ့သည်။ စတားရှစ်ပ်နှင့် ဘလူးမွန်း အစီအစဉ်များ နှောင့်နှေးမှုများကြောင့် နာဆာ၏ လကမ္ဘာသို့ ပြန်လည်သွားရောက်ရေး အစီအစဉ်များ နောက်ကျနေပြီး ၂၀၂၈ တွင် လပေါ်သို့ ဆင်းသက်ရေး အစီအစဉ်ကိုပါ ထိခိုက်စေခဲ့သည်။",
+    "tags": [
+      "Artemis 3",
+      "NASA",
+      "Moon landing",
+      "Starship",
+      "Blue Moon",
+      "Space exploration",
+      "Lunar mission"
+    ],
+    "category": "lunar-missions",
+    "link": "https://www.space.com/space-exploration/artemis/artemis-3-has-been-pushed-to-late-2027-can-nasa-still-land-astronauts-on-the-moon-in-2028",
+    "image": "/images/news-2026-05-01-354844bd.png",
+    "publishedAt": "2026-04-30T21:00:00.000Z",
+    "createdAt": "2026-05-01T09:25:33.967Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-05-01-73c0030f",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " US Space Force wants space-based missile interceptors for Golden Dome ready by 2028 ",
+    "title": "အမေရိကန် အာကာသတပ်ဖွဲ့က ၂၀၂၈ ခုနှစ်တွင် Golden Dome အတွက် အာကာသအခြေပြု ဒုံးကျည်ကာကွယ်ရေးစနစ်များ အသင့်ဖြစ်စေလို",
+    "summary": "အမေရိကန် အာကာသတပ်ဖွဲ့သည် အာကာသအခြေပြု ဒုံးကျည်ကာကွယ်ရေးစနစ်များ ဖော်ဆောင်ရန်အတွက် အစီအစဉ်သစ်တစ်ခုကို ဖန်တီးခဲ့သည်။ ၎င်းတို့၏ စွမ်းဆောင်ရည်ကို ၂၀၂၈ ခုနှစ်အထိ သရုပ်ပြနိုင်ရန် ရည်မှန်းထားသည်။",
+    "tags": [
+      "US Space Force",
+      "Missile Defense",
+      "Space-based Interceptors",
+      "Golden Dome",
+      "Space Technology"
+    ],
+    "category": "space-defense",
+    "link": "https://www.space.com/space-exploration/satellites/us-space-force-wants-space-based-missile-interceptors-for-golden-dome-ready-by-2028",
+    "image": "/images/news-2026-05-01-73c0030f.png",
+    "publishedAt": "2026-04-30T20:00:00.000Z",
+    "createdAt": "2026-05-01T09:25:41.194Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-05-01-588134ba",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " Is Venus volcanically active? Big Hawaiian eruption in 2022 could help scientists find out ",
+    "title": "ဗီးနပ်စ်ဂြိုဟ်သည် မီးတောင်လှုပ်ရှားမှုရှိနေပါသလား။ ၂၀၂၂ ခုနှစ် ဟာဝိုင်အီရှိ ကြီးမားသော မီးတောင်ပေါက်ကွဲမှုက သိပ္ပံပညာရှင်များကို အဖြေရှာရန် ကူညီပေးနိုင်",
+    "summary": "ဗီးနပ်စ်ဂြိုဟ်သည် မီးတောင်လှုပ်ရှားမှုများ ဆက်လက်ရှိနေကြောင်း အထောက်အထားများက ဖော်ပြသည်။ လွန်ခဲ့သော နှစ်အနည်းငယ်က ဟာဝိုင်အီတွင် ဖြစ်ပွားခဲ့သော ကြီးမားသည့် မီးတောင်ပေါက်ကွဲမှုနှင့် ပတ်သက်သည့် အချက်အလက်အသစ်များသည် သိပ္ပံပညာရှင်များအား အတည်ပြုနိုင်ရန် ကူညီပေးနိုင်သည်။",
+    "tags": [
+      "Venus",
+      "volcano",
+      "Hawaii",
+      "eruption",
+      "space science",
+      "planetary science",
+      "geology"
+    ],
+    "category": "planetary-geology",
+    "link": "https://www.space.com/astronomy/venus/is-venus-volcanically-active-big-hawaiian-eruption-in-2022-could-help-scientists-find-out",
+    "image": "/images/news-2026-05-01-588134ba.png",
+    "publishedAt": "2026-04-30T19:00:00.000Z",
+    "createdAt": "2026-05-01T09:25:49.075Z",
+    "reviewed": false
+  },
+  {
+    "id": "news-2026-05-01-008b8698",
+    "source": "Space.com",
+    "sourceUrl": "https://feeds.feedburner.com/spacecom",
+    "originalTitle": " Meet the legendary heroes and villains of 'Masters of the Universe' (video) ",
+    "title": "“မာစတာစ် အော့ဖ် သည် ယူနီဗာစ်” (Masters of the Universe) မှ ဒဏ္ဍာရီလာ သူရဲကောင်းများနှင့် ဗီလိန်များကို တွေ့ဆုံပါ (ဗီဒီယို)",
+    "summary": "“မာစတာစ် အော့ဖ် သည် ယူနီဗာစ်” ကမ္ဘာကို ပုံဖော်ဖန်တီးရာတွင် ပရိသတ်များ စိတ်ကျေနပ်မှု ရရှိစေရန် အဓိကထား ဆောင်ရွက်ခဲ့ကြောင်း ဖန်တီးသူများက ပြောကြားခဲ့သည်။ ဤဗီဒီယိုတွင် ထိုစီးရီးမှ ဒဏ္ဍာရီလာ သူရဲကောင်းများနှင့် ဗီလိန်များကို မိတ်ဆက်ပေးထားသည်။",
+    "tags": [
+      "Masters of the Universe",
+      "Heroes",
+      "Villains",
+      "Fantasy",
+      "Animation",
+      "Pop Culture"
+    ],
+    "category": "entertainment-news",
+    "link": "https://www.space.com/entertainment/space-movies-shows/meet-the-legendary-heroes-and-villains-of-masters-of-the-universe-video",
+    "image": "/images/news-2026-05-01-008b8698.png",
+    "publishedAt": "2026-04-30T18:00:00.000Z",
+    "createdAt": "2026-05-01T09:25:57.996Z",
+    "reviewed": false
   }
 ]
